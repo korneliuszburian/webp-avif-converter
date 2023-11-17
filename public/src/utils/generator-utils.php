@@ -65,6 +65,10 @@ function generate_webp(string $path, int $quality = 80)
         return; // Unable to create image resource, possibly unsupported format.
     }
 
+    if(!imageistruecolor($image)){
+        imagepalettetotruecolor($image);
+    }
+    
     imagewebp($image, $output_path . '/' . $filename . '.webp', $quality);
     imagedestroy($image);
 
@@ -100,6 +104,10 @@ function generate_avif(string $path, int $quality = 80)
 
     if (!$image) {
         return; // Unable to create image resource, possibly unsupported format.
+    }
+
+    if(!imageistruecolor($image)){
+        imagepalettetotruecolor($image);
     }
 
     imageavif($image, $output_path . '/' . $filename . '.avif', $quality);

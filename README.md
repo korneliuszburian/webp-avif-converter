@@ -7,8 +7,8 @@ This WordPress plugin allows automatic conversion and serving of WebP & AVIF ima
 - **Plugin Name:** WebP & AVIF Converter
 - **Plugin URI:** [WebP & AVIF Converter Plugin](https://images.rekurencja.com)
 - **Description:** Fast and simple plugin to automatically convert and serve WebP & AVIF images.
-- **Version:** 1.0.0
-- **Author:** Rekurencja
+- **Version:** 1.0.5
+- **Author:** [Rekurencja Website](https://rekurencja.com/)
 - **Author URI:** [Rekurencja Website](https://rekurencja.com/)
 - **License:** GPL-2.0+
 - **License URI:** [GPL-2.0 License](http://www.gnu.org/licenses/gpl-2.0.txt)
@@ -45,11 +45,3 @@ This WordPress plugin allows automatic conversion and serving of WebP & AVIF ima
 - **Regenerate Option:**
   - Update qualities of existing images.
 
-## Support and Contributions
-
-If you encounter any issues or have suggestions for improvements, please submit them on the [GitHub repository](https://github.com/username/plugin-repository).
-
-## License
-
-This project is licensed under the [GNU General Public License v2.0](http://www.gnu.org/licenses/gpl-2.0.txt) - see the [LICENSE](LICENSE) file for details.
-# webp-avif
