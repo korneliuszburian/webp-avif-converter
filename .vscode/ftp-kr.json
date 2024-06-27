@@ -1,0 +1,21 @@
+{
+	"host": "master.proudhost.eu",
+	"protocol": "ftp",
+	"username": "admin_kb",
+	"password": "0$i1wNe851D7bvg28#",
+	"remotePath": "wp-content/plugins/webp-avif-converter-1.0.5",
+	"port": 21,
+	"localBasePath": "src",
+	"fileNameEncoding": "utf8",
+	"autoUpload": true,
+	"autoDelete": false,
+	"ignoreRemoteModification": true,
+	"autoDownload": false,
+	"ignore": [
+		".git",
+		"/.vscode",
+		".gitignore",
+		".gitattributes",
+		"*.code-workspace"
+	]
+}

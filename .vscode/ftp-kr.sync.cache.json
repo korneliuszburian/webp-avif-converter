@@ -1,0 +1,516 @@
+{
+  "ftp://admin_kb@master.proudhost.eu:21": {
+    ".cagefs": {},
+    ".cl.selector": {},
+    ".tmb": {},
+    "index.php": {
+      "type": "-",
+      "size": 405,
+      "lmtime": 0,
+      "modified": false
+    },
+    "license.txt": {
+      "type": "-",
+      "size": 19915,
+      "lmtime": 0,
+      "modified": false
+    },
+    "readme.html": {
+      "type": "-",
+      "size": 7401,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-activate.php": {
+      "type": "-",
+      "size": 7387,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-admin": {},
+    "wp-blog-header.php": {
+      "type": "-",
+      "size": 351,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-comments-post.php": {
+      "type": "-",
+      "size": 2323,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-config-sample.php": {
+      "type": "-",
+      "size": 3012,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-config.php": {
+      "type": "-",
+      "size": 3262,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-content": {
+      "ai1wm-backups": {},
+      "index.php": {
+        "type": "-",
+        "size": 28,
+        "lmtime": 0,
+        "modified": false
+      },
+      "maintenance": {},
+      "maintenance.php": {
+        "type": "-",
+        "size": 2232,
+        "lmtime": 0,
+        "modified": false
+      },
+      "plugins": {
+        "acf-content-analysis-for-yoast-seo": {},
+        "advanced-custom-fields-pro": {},
+        "akismet": {},
+        "all-in-one-wp-migration": {},
+        "all-in-one-wp-migration-unlimited-extension": {},
+        "hello.php": {
+          "type": "-",
+          "size": 2578,
+          "lmtime": 0,
+          "modified": false
+        },
+        "index.php": {
+          "type": "-",
+          "size": 28,
+          "lmtime": 0,
+          "modified": false
+        },
+        "regenerate-thumbnails": {},
+        "webp-avif-converter-1.0.5": {
+          ".DS_Store": {
+            "type": "-",
+            "size": 6148,
+            "lmtime": 1719487897838.8887,
+            "modified": false
+          },
+          "LICENSE.txt": {
+            "type": "-",
+            "size": 18091,
+            "lmtime": 1719303654073.7395,
+            "modified": false
+          },
+          "README.md": {
+            "type": "-",
+            "size": 1684,
+            "lmtime": 1719303654160.6907,
+            "modified": false
+          },
+          "admin": {
+            "class-web-avif-converter-admin.php": {
+              "type": "-",
+              "size": 2610,
+              "lmtime": 1719303654407.9375,
+              "modified": false
+            },
+            "css": {
+              "web-avif-converter-admin.css": {
+                "type": "-",
+                "size": 3623,
+                "lmtime": 1719303654593.5813,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 26,
+              "lmtime": 1719303654507.3357,
+              "modified": false
+            },
+            "js": {
+              "web-avif-converter-admin.js": {
+                "type": "-",
+                "size": 648,
+                "lmtime": 1719303654677.5388,
+                "modified": false
+              }
+            },
+            "partials": {
+              "web-avif-converter-admin-display.php": {
+                "type": "-",
+                "size": 364,
+                "lmtime": 1719303654759.8916,
+                "modified": false
+              }
+            }
+          },
+          "composer.json": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1719411725361.5906,
+            "modified": false
+          },
+          "composer.lock": {
+            "type": "-",
+            "size": 5348,
+            "lmtime": 1719467909354.3152,
+            "modified": false
+          },
+          "conversion.log": {
+            "type": "-",
+            "size": 109147,
+            "lmtime": 1719467909862.8665,
+            "modified": false
+          },
+          "css": {
+            "custom-styles.css": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 1719303654842.068,
+              "modified": false
+            }
+          },
+          "includes": {
+            "autoloader.php": {
+              "type": "-",
+              "size": 627,
+              "lmtime": 1719472427507.4526,
+              "modified": false
+            },
+            "classes": {
+              "Activator.php": {
+                "type": "-",
+                "size": 140,
+                "lmtime": 1719472581063.2673,
+                "modified": false
+              },
+              "Admin.php": {
+                "type": "-",
+                "size": 5292,
+                "lmtime": 1719486525189.3743,
+                "modified": false
+              },
+              "AvifImageConverter.php": {
+                "type": "-",
+                "size": 3685,
+                "lmtime": 1719484621091.6584,
+                "modified": false
+              },
+              "Deactivator.php": {
+                "type": "-",
+                "size": 146,
+                "lmtime": 1719472581058.3948,
+                "modified": false
+              },
+              "Image.php": {
+                "type": "-",
+                "size": 3360,
+                "lmtime": 1719487891273.1907,
+                "modified": false
+              },
+              "ImageConverter.php": {
+                "type": "-",
+                "size": 2401,
+                "lmtime": 1719484452083.3596,
+                "modified": false
+              },
+              "ImageDeleter.php": {
+                "type": "-",
+                "size": 2736,
+                "lmtime": 1719482004927.6511,
+                "modified": false
+              },
+              "Logger.php": {
+                "type": "-",
+                "size": 438,
+                "lmtime": 1719476412555.491,
+                "modified": false
+              },
+              "Plugin.php": {
+                "type": "-",
+                "size": 1523,
+                "lmtime": 1719488018669.337,
+                "modified": false
+              },
+              "Utils.php": {
+                "type": "-",
+                "size": 1058,
+                "lmtime": 1719475538017.8303,
+                "modified": false
+              },
+              "WebpImageConverter.php": {
+                "type": "-",
+                "size": 1834,
+                "lmtime": 1719483899223.702,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 26,
+              "lmtime": 1719303655363.1992,
+              "modified": false
+            },
+            "interfaces": {
+              "ImageConverterInterface.php": {
+                "type": "-",
+                "size": 140,
+                "lmtime": 1719472581058.575,
+                "modified": false
+              },
+              "ImageDeleterInterface.php": {
+                "type": "-",
+                "size": 121,
+                "lmtime": 1719473562138.8076,
+                "modified": false
+              }
+            }
+          },
+          "index.php": {
+            "type": "-",
+            "size": 26,
+            "lmtime": 1719303653920.6106,
+            "modified": false
+          },
+          "languages": {
+            "web-avif-converter.pot": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 1719303655521.8816,
+              "modified": false
+            }
+          },
+          "public": {
+            "class-web-avif-converter-public.php": {
+              "type": "-",
+              "size": 2617,
+              "lmtime": 1719303655607.4963,
+              "modified": false
+            },
+            "css": {
+              "web-avif-converter-public.css": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1719320454062.556,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 26,
+              "lmtime": 1719303655694.453,
+              "modified": false
+            },
+            "js": {
+              "conversion-progress.js": {
+                "type": "-",
+                "size": 4317,
+                "lmtime": 1719320342261.963,
+                "modified": false
+              },
+              "web-avif-converter-public.js": {
+                "type": "-",
+                "size": 838,
+                "lmtime": 1719303655853.5183,
+                "modified": false
+              }
+            },
+            "partials": {
+              "web-avif-converter-public-display.php": {
+                "type": "-",
+                "size": 369,
+                "lmtime": 1719303655930.9407,
+                "modified": false
+              }
+            },
+            "src": {
+              "admin.php": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1719303656005.0962,
+                "modified": false
+              },
+              "exceptions": {
+                "exceptions.php": {
+                  "type": "-",
+                  "size": 554,
+                  "lmtime": 1719303656082.5906,
+                  "modified": false
+                }
+              },
+              "hooks": {
+                "activation_hooks.php": {
+                  "type": "-",
+                  "size": 300,
+                  "lmtime": 1719472581067.546,
+                  "modified": false
+                },
+                "attachment_hooks.php": {
+                  "type": "-",
+                  "size": 5858,
+                  "lmtime": 1719473468781.2158,
+                  "modified": false
+                }
+              },
+              "utils": {
+                "conversion.log": {
+                  "type": "-",
+                  "size": 99445,
+                  "lmtime": 1719467910146.8252,
+                  "modified": false
+                },
+                "custom-fields.php": {
+                  "type": "-",
+                  "size": 44,
+                  "lmtime": 1719472581063.765,
+                  "modified": false
+                },
+                "generator-utils.php": {
+                  "type": "-",
+                  "size": 9548,
+                  "lmtime": 1719472581076.2246,
+                  "modified": false
+                },
+                "utils.php": {
+                  "type": "-",
+                  "size": 754,
+                  "lmtime": 1719472581080.5908,
+                  "modified": false
+                }
+              }
+            }
+          },
+          "uninstall.php": {
+            "type": "-",
+            "size": 1052,
+            "lmtime": 1719303654243.5168,
+            "modified": false
+          },
+          "web-avif-converter.php": {
+            "type": "-",
+            "size": 1315,
+            "lmtime": 1719486300837.328,
+            "modified": false
+          },
+          "webp_avif_converter.log": {
+            "type": "-",
+            "size": 744161,
+            "lmtime": 1719487891226.8647,
+            "modified": false
+          }
+        },
+        "wordpress-seo": {}
+      },
+      "themes": {
+        "index.php": {
+          "type": "-",
+          "size": 28,
+          "lmtime": 0,
+          "modified": false
+        },
+        "twentytwentyfour": {
+          "assets": {},
+          "functions.php": {
+            "type": "-",
+            "size": 5526,
+            "lmtime": 0,
+            "modified": false
+          },
+          "parts": {},
+          "patterns": {},
+          "readme.txt": {
+            "type": "-",
+            "size": 2660,
+            "lmtime": 0,
+            "modified": false
+          },
+          "screenshot.png": {
+            "type": "-",
+            "size": 956898,
+            "lmtime": 0,
+            "modified": false
+          },
+          "style.css": {
+            "type": "-",
+            "size": 1201,
+            "lmtime": 0,
+            "modified": false
+          },
+          "styles": {},
+          "templates": {},
+          "theme.json": {
+            "type": "-",
+            "size": 22236,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
+        "twentytwentythree": {},
+        "twentytwentytwo": {}
+      },
+      "upgrade": {},
+      "uploads": {},
+      "web-avif-converter.php": {
+        "type": "-",
+        "size": 13016,
+        "lmtime": 0,
+        "modified": false
+      }
+    },
+    "wp-cron.php": {
+      "type": "-",
+      "size": 5638,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-includes": {},
+    "wp-links-opml.php": {
+      "type": "-",
+      "size": 2502,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-load.php": {
+      "type": "-",
+      "size": 3927,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-login.php": {
+      "type": "-",
+      "size": 50917,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-mail.php": {
+      "type": "-",
+      "size": 8525,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-settings.php": {
+      "type": "-",
+      "size": 28427,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-signup.php": {
+      "type": "-",
+      "size": 34385,
+      "lmtime": 0,
+      "modified": false
+    },
+    "wp-trackback.php": {
+      "type": "-",
+      "size": 4885,
+      "lmtime": 0,
+      "modified": false
+    },
+    "xmlrpc.php": {
+      "type": "-",
+      "size": 3246,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}

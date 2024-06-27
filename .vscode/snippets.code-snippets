@@ -1,0 +1,160 @@
+{
+	"html": {
+		"php": {
+			"prefix": "php",
+			"body": ["<?php\n\t$1\n?>"],
+			"description": "PHP tag"
+		},
+		"phpinline": {
+			"prefix": "phpinline",
+			"body": ["<?php $1 ?>"],
+			"description": "PHP inline tag"
+		},
+		"gsf": {
+			"prefix": "gsf",
+			"body": ["get_sub_field( '$1' );"],
+			"description": "get_sub_field"
+		},
+		"milossy": {
+			"prefix": "milossy",
+			"body": [
+				"<?php",
+				"$$img = new MiLossy('uri', 'nodrag br');",
+				"$$img->UseLoader();",
+				"$$img->UseCustomAspectRatio('16/10');",
+				"$$img->Draw();",
+				"?>"
+			],
+			"description": "MajkelImage Lossy"
+		},
+		"comment": {
+			"prefix": "comment",
+			"body": ["<?php /* $1 */ ?>"],
+			"description": "Comment tag"
+		},
+		"printr": {
+			"prefix": "printr",
+			"body": [
+				"<?php \n\techo '<pre>';\n\tprint_r($1);\n\techo '</pre>'; \n?>"
+			],
+			"description": "printr"
+		},
+		"echo": {
+			"prefix": "echo",
+			"body": ["<?= $1; ?>"],
+			"description": "echo"
+		},
+		"if": {
+			"prefix": "if",
+			"body": ["<?php if($1): ?>"],
+			"description": "if"
+		},
+		"ifendif": {
+			"prefix": "ifendif",
+			"body": ["<?php if($1): ?>", "\t$2", "<?php endif; ?>"],
+			"description": "ifendif"
+		},
+		"ifelse": {
+			"prefix": "ifelse",
+			"body": [
+				"<?php if($1): ?>",
+				"\t$2",
+				"<?php else: ?>",
+				"\t$2",
+				"<?php endif; ?>"
+			],
+			"description": "ifelse"
+		},
+		"img": {
+			"prefix": "img",
+			"body": [
+				"<img class=\"\" src=\"<?= get_template_directory_uri(); ?>/assets/img/$1\" width=\"0\" height=\"0\" loading=\"lazy\" decoding=\"async\" alt=\"\" >"
+			],
+			"description": "img"
+		},
+		"endif": {
+			"prefix": "endif",
+			"body": ["<?php endif; ?>"],
+			"description": "endif"
+		},
+		"foreach": {
+			"prefix": "foreach",
+			"body": [
+				"<?php foreach ($$variable as \\$key => \\$item) : ?>\n",
+				"<?php endforeach; ?>"
+			],
+			"description": "endif"
+		},
+		"link_html": {
+			"scope": "html",
+			"prefix": "link",
+			"body": [
+				"<?php",
+				"$$link = Buttonable::FromLink($$link_data['link']);",
+				"echo \"<$$link->tag class='' {$$link->GetLinkAttributes()}>{$$link->label}</$$link->tag>\";",
+				"?>"
+			],
+			"description": "Print link"
+		},
+		"button_html": {
+			"scope": "html",
+			"prefix": "button",
+			"body": [
+				"<?php",
+				"$$button = Buttonable::FromButton($$button_data['button']);",
+				"echo \"<{$$button->tag} class='{$$button->GetButtonClasses()}' {$$button->GetLinkAttributes()}><span class='btn__label'>{$$button->label}</span></{$$button->tag}>\";",
+				"?>"
+			],
+			"description": "Print button"
+		}
+	},
+	"scss": {
+		"media": {
+			"prefix": "media",
+			"body": ["@media (min-width: $1px) {\n\t$2\n}"],
+			"description": "Css media breakpoint"
+		},
+		"medias": {
+			"prefix": "medias",
+			"body": [
+				"/* Media queries */\n\n@media(min-width: 567px) {\n\t$1\n}\n\n@media(min-width: 767px) {\n\t$2\n}\n\n@media(min-width: 1024px) {\n\t$3\n}\n\n@media(min-width: 1199px) {\n\t$4\n}"
+			],
+			"description": "Css media breakpoint"
+		}
+	},
+	"php": {
+		"printr": {
+			"prefix": "printr",
+			"body": ["echo '<pre>';\nprint_r($1);\necho '</pre>';"],
+			"description": "printr"
+		},
+		"milossy": {
+			"prefix": "milossy",
+			"body": [
+				"$$img = new MiLossy('uri', 'nodrag br');",
+				"$$img->UseLoader();",
+				"$$img->UseCustomAspectRatio('16/10');",
+				"$$img->Draw();"
+			],
+			"description": "MajkelImage Lossy"
+		},
+		"link_php": {
+			"scope": "php",
+			"prefix": "link",
+			"body": [
+				"$$link = Buttonable::FromLink($$link_data['link']);",
+				"echo \"<$$link->tag class='' {$$link->GetLinkAttributes()}>{$$link->label}</$$link->tag>\";"
+			],
+			"description": "Print link"
+		},
+		"button_php": {
+			"scope": "php",
+			"prefix": "button",
+			"body": [
+				"$$button = Buttonable::FromButton($$button_data['button']);",
+				"echo \"<{$$button->tag} class='{$$button->GetButtonClasses()}' {$$button->GetLinkAttributes()}><span class='btn__label'>{$$button->label}</span></{$$button->tag}>\";"
+			],
+			"description": "Print button"
+		}
+	}
+}

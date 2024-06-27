@@ -1,0 +1,1800 @@
+[2024-06-27 09:25:40] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:25:40] Converting attachment ID: 18
+[2024-06-27 09:25:40] Converting images for attachment ID: 18, path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:25:40] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:25:40] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 09:25:40] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:25:40] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:25:51] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 09:25:51] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:25:51] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 09:25:51] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:25:51] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 09:25:52] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 09:25:52] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:25:52] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 09:25:52] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:25:52] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 09:25:53] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 09:25:53] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:25:53] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 09:25:53] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:25:53] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 09:25:53] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 09:25:53] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:25:53] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 09:25:53] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:25:53] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 09:25:54] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 09:25:54] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:25:54] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 09:25:54] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:25:54] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 09:25:57] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 09:25:57] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:25:57] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 09:25:57] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:25:57] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 09:26:04] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 09:26:04] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:26:04] Conversion progress: 50%
+[2024-06-27 09:26:04] Converting attachment ID: 17
+[2024-06-27 09:26:04] Converting images for attachment ID: 17, path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg
+[2024-06-27 09:26:04] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg with quality 80
+[2024-06-27 09:26:04] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg to 2024/06/test.webp
+[2024-06-27 09:26:04] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg with quality 80
+[2024-06-27 09:26:04] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.jpg to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test.avif using Imagick
+[2024-06-27 09:26:06] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.jpg with quality 80
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.jpg to 2024/06/test-300x148.webp
+[2024-06-27 09:26:06] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.jpg with quality 80
+[2024-06-27 09:26:06] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.jpg
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.jpg to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-300x148.avif using Imagick
+[2024-06-27 09:26:06] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.jpg with quality 80
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.jpg to 2024/06/test-150x150.webp
+[2024-06-27 09:26:06] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.jpg with quality 80
+[2024-06-27 09:26:06] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.jpg
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.jpg to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-150x150.avif using Imagick
+[2024-06-27 09:26:06] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.jpg with quality 80
+[2024-06-27 09:26:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.jpg to 2024/06/test-768x378.webp
+[2024-06-27 09:26:06] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.jpg with quality 80
+[2024-06-27 09:26:06] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.jpg
+[2024-06-27 09:26:07] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.jpg to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test-768x378.avif using Imagick
+[2024-06-27 09:26:07] Metadata after conversion: Array
+(
+    [width] => 915
+    [height] => 450
+    [file] => 2024/06/test.jpg
+    [filesize] => 102980
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => test-300x148.jpg
+                    [width] => 300
+                    [height] => 148
+                    [mime-type] => image/jpeg
+                    [filesize] => 17700
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => test-150x150.jpg
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/jpeg
+                    [filesize] => 10319
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => test-768x378.jpg
+                    [width] => 768
+                    [height] => 378
+                    [mime-type] => image/jpeg
+                    [filesize] => 69206
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/test.webp
+    [file_avif] => 2024/06/test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => test-300x148.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => test-768x378.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => test-300x148.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => test-768x378.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:26:07] Conversion progress: 100%
+[2024-06-27 09:26:07] Conversion completed: 100%
+[2024-06-27 09:27:57] User initiated Print Uploads action
+[2024-06-27 09:28:00] User initiated Delete action
+[2024-06-27 09:28:00] Deleting AVIF and WebP for attachment ID: 18
+[2024-06-27 09:28:00] Deleting AVIF and WebP for attachment ID: 17
+[2024-06-27 09:28:02] User initiated Print Uploads action
+[2024-06-27 09:28:10] User initiated Print Uploads action
+[2024-06-27 09:28:33] User initiated Delete action
+[2024-06-27 09:28:33] Deleting AVIF and WebP for attachment ID: 18
+[2024-06-27 09:28:33] Deleting AVIF and WebP for attachment ID: 17
+[2024-06-27 09:28:34] User initiated Print Uploads action
+[2024-06-27 09:28:37] User initiated Print Uploads action
+[2024-06-27 09:29:21] User initiated Delete action
+[2024-06-27 09:29:21] Deleting AVIF and WebP for attachment ID: 18
+[2024-06-27 09:29:21] Deleting AVIF and WebP for attachment ID: 17
+[2024-06-27 09:29:23] User initiated Print Uploads action
+[2024-06-27 09:29:28] User initiated Delete action
+[2024-06-27 09:29:28] Deleting AVIF and WebP for attachment ID: 18
+[2024-06-27 09:29:28] Deleting AVIF and WebP for attachment ID: 17
+[2024-06-27 09:32:35] User initiated Delete action
+[2024-06-27 09:33:22] Converting images for attachment ID: 19, path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:33:22] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:33:22] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 09:33:22] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:33:22] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:33:26] User initiated Print Uploads action
+[2024-06-27 09:33:29] User initiated Delete action
+[2024-06-27 09:33:29] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:33:30] User initiated Print Uploads action
+[2024-06-27 09:33:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 09:33:33] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:33:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 09:33:33] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:33:33] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 09:33:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 09:33:33] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:33:34] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 09:33:34] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:33:34] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 09:33:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 09:33:35] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:33:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 09:33:35] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:33:35] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 09:33:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 09:33:35] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:33:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 09:33:35] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:33:35] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 09:33:36] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 09:33:36] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:33:36] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 09:33:36] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:33:36] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 09:33:39] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 09:33:39] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:33:39] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 09:33:39] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:33:39] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 09:33:46] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 09:33:46] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:35:42] User initiated Delete action
+[2024-06-27 09:35:42] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:35:44] User initiated Print Uploads action
+[2024-06-27 09:35:51] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:35:51] Converting attachment ID: 19
+[2024-06-27 09:35:51] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:35:51] Failed to create image resource for 19
+[2024-06-27 09:35:51] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:35:51] Using fallback conversion for 19
+[2024-06-27 09:35:51] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:35:54] User initiated Print Uploads action
+[2024-06-27 09:36:53] User initiated Print Uploads action
+[2024-06-27 09:36:55] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:36:55] Converting attachment ID: 19
+[2024-06-27 09:36:55] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:36:55] Failed to create image resource for 19
+[2024-06-27 09:36:55] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:36:55] Using fallback conversion for 19
+[2024-06-27 09:36:55] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:37:00] User initiated Print Uploads action
+[2024-06-27 09:37:02] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:37:02] Converting attachment ID: 19
+[2024-06-27 09:37:02] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:37:02] Failed to create image resource for 19
+[2024-06-27 09:37:02] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:37:02] Using fallback conversion for 19
+[2024-06-27 09:37:02] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:38:12] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:38:12] Converting attachment ID: 19
+[2024-06-27 09:38:12] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:38:12] Failed to create image resource for 19
+[2024-06-27 09:38:12] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:38:12] Using fallback conversion for 19
+[2024-06-27 09:38:12] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:38:16] User initiated Print Uploads action
+[2024-06-27 09:39:08] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:39:08] Converting attachment ID: 19
+[2024-06-27 09:39:08] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:39:08] Failed to create image resource for 19
+[2024-06-27 09:39:08] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:39:08] Using fallback conversion for 19
+[2024-06-27 09:39:08] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:40:18] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:40:18] Converting attachment ID: 19
+[2024-06-27 09:40:18] Converting images for attachment ID: 19, path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:40:18] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:40:19] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 09:40:19] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:40:19] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:40:29] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 09:40:29] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:40:29] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 09:40:29] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:40:29] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 09:40:29] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 09:40:29] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:40:30] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 09:40:30] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:40:30] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 09:40:31] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 09:40:31] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:40:31] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 09:40:31] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:40:31] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 09:40:31] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 09:40:31] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:40:31] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 09:40:31] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:40:31] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 09:40:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 09:40:32] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:40:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 09:40:32] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:40:32] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 09:40:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 09:40:35] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:40:35] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 09:40:35] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:40:35] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 09:40:42] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 09:40:42] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:43:29] User initiated Print Uploads action
+[2024-06-27 09:43:34] User initiated Delete action
+[2024-06-27 09:43:34] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:43:36] User initiated Print Uploads action
+[2024-06-27 09:43:40] User initiated Delete action
+[2024-06-27 09:43:40] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:44:38] User initiated Delete action
+[2024-06-27 09:44:43] User initiated Print Uploads action
+[2024-06-27 09:45:59] User initiated Delete action
+[2024-06-27 09:46:02] User initiated Print Uploads action
+[2024-06-27 09:47:13] User initiated Delete action
+[2024-06-27 09:47:32] User initiated Delete action
+[2024-06-27 09:48:13] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:48:13] Converting attachment ID: 19
+[2024-06-27 09:48:13] Converting images for attachment ID: 19, path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:48:13] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:48:13] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 09:48:13] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:48:13] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:48:15] User initiated Print Uploads action
+[2024-06-27 09:48:17] User initiated Delete action
+[2024-06-27 09:48:17] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:48:22] User initiated Delete action
+[2024-06-27 09:48:22] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:48:24] User initiated Print Uploads action
+[2024-06-27 09:48:24] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 09:48:24] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:48:24] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 09:48:24] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:48:24] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 09:48:24] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 09:48:24] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:48:24] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 09:48:24] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:48:24] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 09:48:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 09:48:26] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:48:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 09:48:26] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:48:26] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 09:48:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 09:48:26] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:48:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 09:48:26] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:48:26] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 09:48:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 09:48:26] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:48:27] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 09:48:27] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:48:27] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 09:48:30] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 09:48:30] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:48:30] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 09:48:30] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:48:30] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 09:48:36] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 09:48:36] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:48:52] User initiated Delete action
+[2024-06-27 09:48:52] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:48:54] User initiated Delete action
+[2024-06-27 09:48:54] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:49:58] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:49:58] Converting attachment ID: 19
+[2024-06-27 09:49:58] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:49:58] Failed to create image resource for 19
+[2024-06-27 09:49:58] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:49:58] Using fallback conversion for 19
+[2024-06-27 09:49:58] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:50:00] User initiated Print Uploads action
+[2024-06-27 09:50:01] User initiated Delete action
+[2024-06-27 09:50:01] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:50:01] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:50:03] User initiated Print Uploads action
+[2024-06-27 09:50:34] User initiated Delete action
+[2024-06-27 09:50:34] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:50:34] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:53:02] User initiated Print Uploads action
+[2024-06-27 09:53:03] User initiated Delete action
+[2024-06-27 09:53:03] Deleting AVIF and WebP for attachment ID: 19
+[2024-06-27 09:53:03] No AVIF or WebP files found to delete for attachment ID: 19
+[2024-06-27 09:54:18] User initiated Print Uploads action
+[2024-06-27 09:54:20] User initiated Delete action
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.webp
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif
+[2024-06-27 09:54:20] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.webp
+[2024-06-27 09:54:22] User initiated Print Uploads action
+[2024-06-27 09:54:25] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:54:25] Converting attachment ID: 19
+[2024-06-27 09:54:25] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:54:25] Failed to create image resource for 19
+[2024-06-27 09:54:25] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:54:25] Using fallback conversion for 19
+[2024-06-27 09:54:25] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:54:26] User initiated Print Uploads action
+[2024-06-27 09:54:42] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:54:42] Converting attachment ID: 19
+[2024-06-27 09:54:42] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:54:42] Failed to create image resource for 19
+[2024-06-27 09:54:42] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:54:42] Using fallback conversion for 19
+[2024-06-27 09:54:42] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:55:04] User initiated Print Uploads action
+[2024-06-27 09:55:46] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:55:46] Converting attachment ID: 19
+[2024-06-27 09:55:46] Starting WebP conversion for 19 with quality 80
+[2024-06-27 09:55:46] Failed to create image resource for 19
+[2024-06-27 09:55:46] Starting AVIF conversion for 19 with quality 80
+[2024-06-27 09:55:46] Using fallback conversion for 19
+[2024-06-27 09:55:46] Imagick conversion failed for 19: unable to open image `19': No such file or directory @ error/blob.c/OpenBlob/2924
+[2024-06-27 09:55:48] User initiated Delete action
+[2024-06-27 09:55:49] User initiated Print Uploads action
+[2024-06-27 09:56:30] User initiated Print Uploads action
+[2024-06-27 09:56:33] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 09:56:33] Converting attachment ID: 19
+[2024-06-27 09:56:33] Converting images for attachment ID: 19
+[2024-06-27 09:56:33] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:56:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 09:56:33] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 09:56:33] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 09:56:44] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 09:56:44] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:56:44] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 09:56:44] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 09:56:44] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 09:56:44] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 09:56:44] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:56:44] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 09:56:44] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 09:56:44] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 09:56:46] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 09:56:46] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:56:46] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 09:56:46] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 09:56:46] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 09:56:46] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 09:56:46] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:56:46] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 09:56:46] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 09:56:46] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 09:56:47] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 09:56:47] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:56:47] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 09:56:47] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 09:56:47] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 09:56:50] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 09:56:50] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:56:50] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 09:56:50] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 09:56:50] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 09:56:56] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 09:56:56] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 09:57:00] User initiated Print Uploads action
+[2024-06-27 10:05:16] User initiated Print Uploads action
+[2024-06-27 10:05:18] User initiated Delete action
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.webp
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif
+[2024-06-27 10:05:18] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.webp
+[2024-06-27 10:05:19] User initiated Print Uploads action
+[2024-06-27 10:05:20] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:05:20] Converting attachment ID: 19
+[2024-06-27 10:05:20] Converting images for attachment ID: 19 with path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 10:05:20] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 10:05:21] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 10:05:21] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 10:05:21] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 10:05:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 10:05:32] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 10:05:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 10:05:32] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 10:05:32] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 10:05:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 10:05:32] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 10:05:32] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 10:05:32] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 10:05:32] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 10:05:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 10:05:33] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 10:05:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 10:05:33] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 10:05:33] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 10:05:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 10:05:33] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 10:05:33] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 10:05:33] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 10:05:33] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 10:05:34] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 10:05:34] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 10:05:34] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 10:05:34] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 10:05:34] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 10:05:37] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 10:05:37] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 10:05:38] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 10:05:38] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 10:05:38] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 10:05:44] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 10:05:44] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 10:05:51] User initiated Print Uploads action
+[2024-06-27 10:06:08] User initiated Print Uploads action
+[2024-06-27 10:06:10] User initiated Delete action
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.webp
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif
+[2024-06-27 10:06:10] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.webp
+[2024-06-27 10:06:11] User initiated Print Uploads action
+[2024-06-27 10:06:12] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:06:12] Converting attachment ID: 19
+[2024-06-27 10:06:12] Converting images for attachment ID: 19 with path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 10:06:12] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 10:06:12] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to 2024/06/second-test.webp
+[2024-06-27 10:06:12] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png with quality 80
+[2024-06-27 10:06:12] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png
+[2024-06-27 10:06:23] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif using Imagick
+[2024-06-27 10:06:23] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 10:06:23] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to 2024/06/second-test-300x169.webp
+[2024-06-27 10:06:23] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png with quality 80
+[2024-06-27 10:06:23] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png
+[2024-06-27 10:06:23] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif using Imagick
+[2024-06-27 10:06:23] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 10:06:23] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to 2024/06/second-test-1024x576.webp
+[2024-06-27 10:06:23] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png with quality 80
+[2024-06-27 10:06:23] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png
+[2024-06-27 10:06:25] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif using Imagick
+[2024-06-27 10:06:25] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 10:06:25] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to 2024/06/second-test-150x150.webp
+[2024-06-27 10:06:25] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png with quality 80
+[2024-06-27 10:06:25] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png
+[2024-06-27 10:06:25] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif using Imagick
+[2024-06-27 10:06:25] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 10:06:25] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to 2024/06/second-test-768x432.webp
+[2024-06-27 10:06:25] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png with quality 80
+[2024-06-27 10:06:25] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png
+[2024-06-27 10:06:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif using Imagick
+[2024-06-27 10:06:26] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 10:06:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to 2024/06/second-test-1536x864.webp
+[2024-06-27 10:06:26] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png with quality 80
+[2024-06-27 10:06:26] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png
+[2024-06-27 10:06:29] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif using Imagick
+[2024-06-27 10:06:29] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 10:06:29] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to 2024/06/second-test-2048x1152.webp
+[2024-06-27 10:06:29] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png with quality 80
+[2024-06-27 10:06:29] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png
+[2024-06-27 10:06:36] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif using Imagick
+[2024-06-27 10:06:36] Metadata after conversion: Array
+(
+    [width] => 2560
+    [height] => 1440
+    [file] => 2024/06/second-test.png
+    [filesize] => 395704
+    [sizes] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.png
+                    [width] => 300
+                    [height] => 169
+                    [mime-type] => image/png
+                    [filesize] => 14949
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.png
+                    [width] => 1024
+                    [height] => 576
+                    [mime-type] => image/png
+                    [filesize] => 100057
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.png
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/png
+                    [filesize] => 7909
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.png
+                    [width] => 768
+                    [height] => 432
+                    [mime-type] => image/png
+                    [filesize] => 65350
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.png
+                    [width] => 1536
+                    [height] => 864
+                    [mime-type] => image/png
+                    [filesize] => 185469
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.png
+                    [width] => 2048
+                    [height] => 1152
+                    [mime-type] => image/png
+                    [filesize] => 291125
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 0
+            [credit] => 
+            [camera] => 
+            [caption] => 
+            [created_timestamp] => 0
+            [copyright] => 
+            [focal_length] => 0
+            [iso] => 0
+            [shutter_speed] => 0
+            [title] => 
+            [orientation] => 0
+            [keywords] => Array
+                (
+                )
+
+        )
+
+    [file_webp] => 2024/06/second-test.webp
+    [file_avif] => 2024/06/second-test.avif
+    [sizes_avif] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.avif
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.avif
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.avif
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.avif
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.avif
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.avif
+                )
+
+        )
+
+    [sizes_webp] => Array
+        (
+            [medium] => Array
+                (
+                    [file] => second-test-300x169.webp
+                )
+
+            [large] => Array
+                (
+                    [file] => second-test-1024x576.webp
+                )
+
+            [thumbnail] => Array
+                (
+                    [file] => second-test-150x150.webp
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => second-test-768x432.webp
+                )
+
+            [1536x1536] => Array
+                (
+                    [file] => second-test-1536x864.webp
+                )
+
+            [2048x2048] => Array
+                (
+                    [file] => second-test-2048x1152.webp
+                )
+
+        )
+
+)
+
+[2024-06-27 10:06:38] User initiated Print Uploads action
+[2024-06-27 10:06:57] User initiated Print Uploads action
+[2024-06-27 10:06:58] Converting images for attachment ID: 20 with path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:06:58] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:06:58] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:06:58] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:06:58] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:07:02] User initiated Delete action
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1024x576.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-150x150.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-1536x864.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-2048x1152.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-300x169.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test-768x432.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/second-test.webp
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:07:02] Deleted file: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.webp
+[2024-06-27 10:07:03] User initiated Print Uploads action
+[2024-06-27 10:14:36] User initiated Print Uploads action
+[2024-06-27 10:14:41] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:14:41] Converting attachment ID: 20
+[2024-06-27 10:14:41] Converting images for attachment ID: 20 with path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:14:41] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:14:42] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:14:42] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:14:42] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:15:37] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:15:37] Converting attachment ID: 20
+[2024-06-27 10:15:37] Converting images for attachment ID: 20 with path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:15:37] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:15:38] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:15:38] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:15:38] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:15:44] User initiated Print Uploads action
+[2024-06-27 10:20:44] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:20:44] Converting attachment ID: 20
+[2024-06-27 10:20:44] Converting images for attachment ID: 20
+[2024-06-27 10:20:44] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:20:45] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:20:45] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:20:45] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:21:50] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:21:50] Converting attachment ID: 20
+[2024-06-27 10:21:50] Converting images for attachment ID: 20
+[2024-06-27 10:21:50] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:21:50] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:21:50] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:21:50] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:25:05] User initiated Print Uploads action
+[2024-06-27 10:25:07] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:25:07] Converting attachment ID: 20
+[2024-06-27 10:25:07] Converting images for attachment ID: 20
+[2024-06-27 10:25:07] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:25:07] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:25:07] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:25:07] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:27:51] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:27:51] Converting attachment ID: 20
+[2024-06-27 10:27:51] Converting images for attachment ID: 20
+[2024-06-27 10:27:51] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:27:52] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:27:52] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:27:52] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:27:58] User initiated Print Uploads action
+[2024-06-27 10:28:00] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:28:00] Converting attachment ID: 20
+[2024-06-27 10:28:00] Converting images for attachment ID: 20
+[2024-06-27 10:28:00] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:28:00] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:28:00] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:28:00] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:29:49] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:29:49] Converting attachment ID: 20
+[2024-06-27 10:29:49] Converting images for attachment ID: 20
+[2024-06-27 10:29:49] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:29:50] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:29:50] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:29:50] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:32:09] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:32:09] Converting attachment ID: 20
+[2024-06-27 10:32:09] Converting images for attachment ID: 20
+[2024-06-27 10:32:09] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:32:10] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:32:10] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:32:10] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:32:25] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:32:25] Converting attachment ID: 20
+[2024-06-27 10:32:25] Converting images for attachment ID: 20
+[2024-06-27 10:32:25] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:32:26] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:32:26] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:32:26] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:32:26] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: test_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:34:14] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:34:14] Converting attachment ID: 20
+[2024-06-27 10:34:14] Converting images for attachment ID: 20
+[2024-06-27 10:34:14] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:34:14] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:34:14] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:34:14] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:34:14] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: test_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:36:12] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:36:12] Converting attachment ID: 20
+[2024-06-27 10:36:12] Converting images for attachment ID: 20
+[2024-06-27 10:36:12] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:36:12] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:36:12] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:36:12] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:36:12] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: test_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:37:05] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:37:05] Converting attachment ID: 20
+[2024-06-27 10:37:05] Converting images for attachment ID: 20
+[2024-06-27 10:37:05] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:37:06] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:37:06] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:37:06] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:37:06] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: test_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:37:12] User initiated Print Uploads action
+[2024-06-27 10:37:15] User initiated Convert action with quality_webp: 80 and quality_avif: 80
+[2024-06-27 10:37:15] Converting attachment ID: 20
+[2024-06-27 10:37:15] Converting images for attachment ID: 20
+[2024-06-27 10:37:15] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:37:16] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png to 2024/06/test_png.webp
+[2024-06-27 10:37:16] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png with quality 80
+[2024-06-27 10:37:16] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.png
+[2024-06-27 10:37:16] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: test_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/test_png.avif
+[2024-06-27 10:38:54] Converting images for attachment ID: 21
+[2024-06-27 10:38:54] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.png with quality 80
+[2024-06-27 10:38:54] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.png to 2024/06/tes3232_png.webp
+[2024-06-27 10:38:54] Starting AVIF conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.png with quality 80
+[2024-06-27 10:38:54] Using fallback conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.png
+[2024-06-27 10:38:54] Fallback conversion details - output path: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06, filename: tes3232_png, destination: /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.avif
+[2024-06-27 10:38:55] Successfully converted /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.png to /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png.avif using Imagick
+[2024-06-27 10:38:55] Processing size thumbnail: tes3232_png-150x150.png, base filename: tes3232_png-150x150, extension: png
+[2024-06-27 10:38:55] Starting WebP conversion for /home/platne/serwer149987/public_html/autoinstalator/srodowiskotestowe.wilmed.pl/wordpress72499/wp-content/uploads/2024/06/tes3232_png-150x150.png with quality 80
+[2024-06-27 10:39:06] User initiated Print Uploads action

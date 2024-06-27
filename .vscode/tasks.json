@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "SASS Compile",
+            "type": "shell",
+            "command": "sass --watch src/assets/sass:src/assets/css --style compressed",
+            "isBackground": true,
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        },
+        {
+            "label": "Minify JavaScript",
+            "type": "shell",
+            "command": "npm run minify",
+            "isBackground": true,
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        }
+    ]
+}
