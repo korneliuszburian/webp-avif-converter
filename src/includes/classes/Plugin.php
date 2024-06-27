@@ -4,17 +4,17 @@ namespace WebpAvifConverter;
 
 class Plugin
 {
-    private $webp_converter;
-    private $avif_converter;
-    private $file_deleter;
+    private $webpConverter;
+    private $avifConverter;
+    private $fileDeleter;
     private $utils;
     private $logger;
 
     public function __construct()
     {
-        $this->webp_converter = new WebpImageConverter();
-        $this->avif_converter = new AvifImageConverter();
-        $this->file_deleter = new ImageDeleter();
+        $this->webpConverter = new WebpImageConverter();
+        $this->avifConverter = new AvifImageConverter();
+        $this->fileDeleter = new ImageDeleter();
         $this->utils = new Utils();
         $this->logger = new Logger();
     }
@@ -22,21 +22,21 @@ class Plugin
     public function run()
     {
         $this->logger->log("Running Plugin");
-        add_filter('wp_generate_attachment_metadata', [$this, 'convert_images_on_generate_attachment_metadata'], 10, 2);
-        add_action('admin_menu', [$this, 'add_admin_menu']);
-        add_action('delete_attachment', [$this->file_deleter, 'delete_attachment_files']);
-        add_action('wp_ajax_convert_batch', [$this, 'convert_images_batch']);
-        add_action('wp_ajax_get_total_attachments', [$this, 'get_total_attachments']);
+        add_filter('wp_generate_attachment_metadata', [$this, 'convertImagesOnGenerateAttachmentMetadata'], 10, 2);
+        add_action('admin_menu', [$this, 'addAdminMenu']);
+        add_action('delete_attachment', [$this->fileDeleter, 'deleteAttachmentFiles']);
+        add_action('wp_ajax_convert_batch', [$this, 'convertBatch']);
+        add_action('wp_ajax_get_total_attachments', [$this, 'getTotalAttachments']);
     }
 
-    public function convert_images_on_generate_attachment_metadata($metadata, $attachment_id)
+    public function convertImagesOnGenerateAttachmentMetadata($metadata, $attachment_id)
     {
-        $this->logger->log("convert_images_on_generate_attachment_metadata called with attachment ID: $attachment_id");
-        $converter = new ImageConverter($this->webp_converter, $this->avif_converter);
+        $this->logger->log("convertImagesOnGenerateAttachmentMetadata called with attachment ID: $attachment_id");
+        $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
         return $converter->convertImagesOnGenerateAttachmentMetadata($metadata, $attachment_id);
     }
 
-    public function add_admin_menu()
+    public function addAdminMenu()
     {
         $this->logger->log("Adding admin menu");
         add_submenu_page(
@@ -45,38 +45,44 @@ class Plugin
             'WebP & Avif Converter',
             'manage_options',
             'webp_avif_bulk_convert',
-            [$this, 'render_admin_page']
+            [$this, 'renderAdminPage']
         );
     }
 
-    public function render_admin_page()
+    public function renderAdminPage()
     {
         $this->logger->log("Rendering admin page");
 
-        $admin = new Admin($this->webp_converter, $this->avif_converter, $this->file_deleter, $this->utils);
+        $admin = new Admin($this->webpConverter, $this->avifConverter, $this->fileDeleter, $this->utils);
         $admin->render();
     }
 
-    public function convert_images_batch()
+    public function convertBatch()
     {
         check_ajax_referer('convert_batch_nonce', 'security');
     
         $quality_webp = intval($_POST['quality_webp']);
         $quality_avif = intval($_POST['quality_avif']);
         $offset = intval($_POST['offset']);
+        $batch_size = intval($_POST['batch_size']);
     
         $total_attachments = wp_count_posts('attachment')->publish;
         $complete = false;
     
-        $this->update_all_attachments_webp_avif_quality($quality_webp, $quality_avif, $offset);
+        $this->updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif, $offset, $batch_size);
+    
+        if (($offset + $batch_size) >= $total_attachments) {
+            $complete = true;
+        }
     
         wp_send_json_success(['complete' => $complete, 'total' => $total_attachments]);
     }
 
-    private function update_all_attachments_webp_avif_quality($quality_webp, $quality_avif, $offset = 0)
+    private function updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif, $offset = 0, $batch_size = 10)
     {
         $attachments = get_posts([
             'post_type' => 'attachment',
+            'numberposts' => $batch_size,
             'offset' => $offset,
             'post_status' => null,
             'post_parent' => null,
@@ -85,12 +91,12 @@ class Plugin
 
         foreach ($attachments as $attachment) {
             $this->logger->log("Converting attachment ID: {$attachment->ID}");
-            $converter = new ImageConverter($this->webp_converter, $this->avif_converter);
+            $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
             $converter->convertImagesOnGenerateAttachmentMetadata(wp_get_attachment_metadata($attachment->ID), $attachment->ID, $quality_webp, $quality_avif);
         }
     }
 
-    public function get_total_attachments()
+    public function getTotalAttachments()
     {
         check_ajax_referer('convert_batch_nonce', 'security');
 
