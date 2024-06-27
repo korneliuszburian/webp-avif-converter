@@ -9,10 +9,10 @@ class Utils
      *
      * @return void
      */
-    public function printUploadFolderContents(): void
+    public function print_upload_folder_contents(): void
     {
         $upload_dir = wp_upload_dir()['basedir'];
-        $this->printDirectoryContents($upload_dir);
+        $this->print_directory_content($upload_dir);
     }
 
     /**
@@ -21,7 +21,7 @@ class Utils
      * @param string $dir
      * @return void
      */
-    private function printDirectoryContents(string $dir): void
+    private function print_directory_content(string $dir): void
     {
         $items = scandir($dir);
 
@@ -34,7 +34,7 @@ class Utils
             $path = $dir . DIRECTORY_SEPARATOR . $item;
             if (is_dir($path)) {
                 echo '<li><strong>' . $item . '</strong></li>';
-                $this->printDirectoryContents($path); // Recursive call
+                $this->print_directory_content($path);
             } else {
                 echo '<li>' . $item . '</li>';
             }

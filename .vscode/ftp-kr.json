@@ -8,9 +8,9 @@
 	"localBasePath": "src",
 	"fileNameEncoding": "utf8",
 	"autoUpload": true,
-	"autoDelete": false,
+	"autoDelete": true,
 	"ignoreRemoteModification": true,
-	"autoDownload": false,
+	"autoDownload": true,
 	"ignore": [
 		".git",
 		"/.vscode",

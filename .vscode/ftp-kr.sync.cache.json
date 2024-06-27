@@ -87,58 +87,52 @@
         },
         "regenerate-thumbnails": {},
         "webp-avif-converter-1.0.5": {
-          ".DS_Store": {
-            "type": "-",
-            "size": 6148,
-            "lmtime": 1719487897838.8887,
-            "modified": false
-          },
           "LICENSE.txt": {
             "type": "-",
-            "size": 18091,
-            "lmtime": 1719303654073.7395,
+            "size": 18429,
+            "lmtime": 1719504034034.337,
             "modified": false
           },
           "README.md": {
             "type": "-",
             "size": 1684,
-            "lmtime": 1719303654160.6907,
+            "lmtime": 1719503798859.3208,
             "modified": false
           },
           "admin": {
             "class-web-avif-converter-admin.php": {
               "type": "-",
-              "size": 2610,
-              "lmtime": 1719303654407.9375,
+              "size": 2713,
+              "lmtime": 1719504034036.337,
               "modified": false
             },
             "css": {
               "web-avif-converter-admin.css": {
                 "type": "-",
-                "size": 3623,
-                "lmtime": 1719303654593.5813,
+                "size": 3816,
+                "lmtime": 1719504034038.337,
                 "modified": false
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719303654507.3357,
+              "lmtime": 1719503799726.4111,
               "modified": false
             },
             "js": {
               "web-avif-converter-admin.js": {
                 "type": "-",
-                "size": 648,
-                "lmtime": 1719303654677.5388,
+                "size": 670,
+                "lmtime": 1719504034040.3352,
                 "modified": false
               }
             },
             "partials": {
               "web-avif-converter-admin-display.php": {
                 "type": "-",
-                "size": 364,
-                "lmtime": 1719303654759.8916,
+                "size": 380,
+                "lmtime": 1719504034047.3354,
                 "modified": false
               }
             }
@@ -146,121 +140,115 @@
           "composer.json": {
             "type": "-",
             "size": 0,
-            "lmtime": 1719411725361.5906,
+            "lmtime": 1719503798967.6907,
             "modified": false
           },
           "composer.lock": {
             "type": "-",
-            "size": 5348,
-            "lmtime": 1719467909354.3152,
-            "modified": false
-          },
-          "conversion.log": {
-            "type": "-",
-            "size": 109147,
-            "lmtime": 1719467909862.8665,
+            "size": 5503,
+            "lmtime": 1719504034051.3406,
             "modified": false
           },
           "css": {
             "custom-styles.css": {
               "type": "-",
               "size": 0,
-              "lmtime": 1719303654842.068,
+              "lmtime": 1719503800016.4097,
               "modified": false
             }
           },
           "includes": {
             "autoloader.php": {
               "type": "-",
-              "size": 627,
-              "lmtime": 1719472427507.4526,
+              "size": 653,
+              "lmtime": 1719504034054.3357,
               "modified": false
             },
             "classes": {
               "Activator.php": {
                 "type": "-",
-                "size": 140,
-                "lmtime": 1719472581063.2673,
+                "size": 151,
+                "lmtime": 1719504034055.3352,
                 "modified": false
               },
               "Admin.php": {
                 "type": "-",
-                "size": 5292,
-                "lmtime": 1719486525189.3743,
+                "size": 6224,
+                "lmtime": 1719506202242,
                 "modified": false
               },
               "AvifImageConverter.php": {
                 "type": "-",
-                "size": 3685,
-                "lmtime": 1719484621091.6584,
+                "size": 3781,
+                "lmtime": 1719504034062.3352,
                 "modified": false
               },
               "Deactivator.php": {
                 "type": "-",
-                "size": 146,
-                "lmtime": 1719472581058.3948,
+                "size": 157,
+                "lmtime": 1719504034062.3352,
                 "modified": false
               },
               "Image.php": {
                 "type": "-",
-                "size": 3360,
-                "lmtime": 1719487891273.1907,
+                "size": 3462,
+                "lmtime": 1719504034064.337,
                 "modified": false
               },
               "ImageConverter.php": {
                 "type": "-",
-                "size": 2401,
-                "lmtime": 1719484452083.3596,
+                "size": 2462,
+                "lmtime": 1719504034068.3376,
                 "modified": false
               },
               "ImageDeleter.php": {
                 "type": "-",
-                "size": 2736,
-                "lmtime": 1719482004927.6511,
+                "size": 2832,
+                "lmtime": 1719504034069.3362,
                 "modified": false
               },
               "Logger.php": {
                 "type": "-",
-                "size": 438,
-                "lmtime": 1719476412555.491,
+                "size": 458,
+                "lmtime": 1719504034072.3372,
                 "modified": false
               },
               "Plugin.php": {
                 "type": "-",
-                "size": 1523,
-                "lmtime": 1719488018669.337,
+                "size": 5172,
+                "lmtime": 1719506085866.5867,
                 "modified": false
               },
               "Utils.php": {
                 "type": "-",
-                "size": 1058,
-                "lmtime": 1719475538017.8303,
+                "size": 1102,
+                "lmtime": 1719504034073.338,
                 "modified": false
               },
               "WebpImageConverter.php": {
                 "type": "-",
-                "size": 1834,
-                "lmtime": 1719483899223.702,
+                "size": 1891,
+                "lmtime": 1719504034074.337,
                 "modified": false
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719303655363.1992,
+              "lmtime": 1719503800154.4233,
               "modified": false
             },
             "interfaces": {
               "ImageConverterInterface.php": {
                 "type": "-",
-                "size": 140,
-                "lmtime": 1719472581058.575,
+                "size": 147,
+                "lmtime": 1719504034075.3362,
                 "modified": false
               },
               "ImageDeleterInterface.php": {
                 "type": "-",
-                "size": 121,
-                "lmtime": 1719473562138.8076,
+                "size": 129,
+                "lmtime": 1719504034076.3354,
                 "modified": false
               }
             }
@@ -268,14 +256,14 @@
           "index.php": {
             "type": "-",
             "size": 26,
-            "lmtime": 1719303653920.6106,
+            "lmtime": 1719503799121.9143,
             "modified": false
           },
           "languages": {
             "web-avif-converter.pot": {
               "type": "-",
               "size": 0,
-              "lmtime": 1719303655521.8816,
+              "lmtime": 1719503801072.272,
               "modified": false
             }
           },
@@ -283,42 +271,54 @@
             "class-web-avif-converter-public.php": {
               "type": "-",
               "size": 2617,
-              "lmtime": 1719303655607.4963,
+              "lmtime": 1719503801145.2725,
               "modified": false
             },
             "css": {
               "web-avif-converter-public.css": {
                 "type": "-",
                 "size": 0,
-                "lmtime": 1719320454062.556,
+                "lmtime": 1719503801287.1016,
                 "modified": false
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719303655694.453,
+              "lmtime": 1719503801217.2698,
               "modified": false
             },
             "js": {
+              "ajax-conversion.js": {
+                "type": "-",
+                "size": 2212,
+                "lmtime": 1719506096209,
+                "modified": false
+              },
               "conversion-progress.js": {
                 "type": "-",
-                "size": 4317,
-                "lmtime": 1719320342261.963,
+                "size": 4446,
+                "lmtime": 1719504034077.3347,
                 "modified": false
               },
               "web-avif-converter-public.js": {
                 "type": "-",
-                "size": 838,
-                "lmtime": 1719303655853.5183,
+                "size": 870,
+                "lmtime": 1719504034078.3362,
+                "modified": false
+              },
+              "webp-avif-converter.js": {
+                "type": "-",
+                "size": 802,
+                "lmtime": 1719503302016.5635,
                 "modified": false
               }
             },
             "partials": {
               "web-avif-converter-public-display.php": {
                 "type": "-",
-                "size": 369,
-                "lmtime": 1719303655930.9407,
+                "size": 385,
+                "lmtime": 1719504034079.3362,
                 "modified": false
               }
             },
@@ -326,54 +326,54 @@
               "admin.php": {
                 "type": "-",
                 "size": 0,
-                "lmtime": 1719303656005.0962,
+                "lmtime": 1719503801567.2573,
                 "modified": false
               },
               "exceptions": {
                 "exceptions.php": {
                   "type": "-",
-                  "size": 554,
-                  "lmtime": 1719303656082.5906,
+                  "size": 572,
+                  "lmtime": 1719504034081.3362,
                   "modified": false
                 }
               },
               "hooks": {
                 "activation_hooks.php": {
                   "type": "-",
-                  "size": 300,
-                  "lmtime": 1719472581067.546,
+                  "size": 314,
+                  "lmtime": 1719504034082.3357,
                   "modified": false
                 },
                 "attachment_hooks.php": {
                   "type": "-",
-                  "size": 5858,
-                  "lmtime": 1719473468781.2158,
+                  "size": 6052,
+                  "lmtime": 1719504034083.3354,
                   "modified": false
                 }
               },
               "utils": {
                 "conversion.log": {
                   "type": "-",
-                  "size": 99445,
-                  "lmtime": 1719467910146.8252,
+                  "size": 99995,
+                  "lmtime": 1719504034088.3352,
                   "modified": false
                 },
                 "custom-fields.php": {
                   "type": "-",
-                  "size": 44,
-                  "lmtime": 1719472581063.765,
+                  "size": 47,
+                  "lmtime": 1719504034090.3354,
                   "modified": false
                 },
                 "generator-utils.php": {
                   "type": "-",
-                  "size": 9548,
-                  "lmtime": 1719472581076.2246,
+                  "size": 9835,
+                  "lmtime": 1719504034090.3354,
                   "modified": false
                 },
                 "utils.php": {
                   "type": "-",
-                  "size": 754,
-                  "lmtime": 1719472581080.5908,
+                  "size": 783,
+                  "lmtime": 1719504034091.335,
                   "modified": false
                 }
               }
@@ -381,20 +381,332 @@
           },
           "uninstall.php": {
             "type": "-",
-            "size": 1052,
-            "lmtime": 1719303654243.5168,
+            "size": 1083,
+            "lmtime": 1719504034092.3364,
             "modified": false
           },
           "web-avif-converter.php": {
             "type": "-",
-            "size": 1315,
-            "lmtime": 1719486300837.328,
+            "size": 1357,
+            "lmtime": 1719504034094.337,
             "modified": false
+          },
+          "webp-avif-converter-1.0.5": {
+            "LICENSE.txt": {
+              "type": "-",
+              "size": 18429,
+              "lmtime": 1719504034094.337,
+              "modified": false
+            },
+            "README.md": {
+              "type": "-",
+              "size": 1684,
+              "lmtime": 1719504034095.337,
+              "modified": false
+            },
+            "admin": {
+              "class-web-avif-converter-admin.php": {
+                "type": "-",
+                "size": 2713,
+                "lmtime": 1719504034096.336,
+                "modified": false
+              },
+              "css": {
+                "web-avif-converter-admin.css": {
+                  "type": "-",
+                  "size": 3816,
+                  "lmtime": 1719504034097.3357,
+                  "modified": false
+                }
+              },
+              "index.php": {
+                "type": "-",
+                "size": 26,
+                "lmtime": 1719504034097.3357,
+                "modified": false
+              },
+              "js": {
+                "web-avif-converter-admin.js": {
+                  "type": "-",
+                  "size": 670,
+                  "lmtime": 1719504034098.3352,
+                  "modified": false
+                }
+              },
+              "partials": {
+                "web-avif-converter-admin-display.php": {
+                  "type": "-",
+                  "size": 380,
+                  "lmtime": 1719504034099.3367,
+                  "modified": false
+                }
+              }
+            },
+            "composer.json": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 1719504034100.3374,
+              "modified": false
+            },
+            "composer.lock": {
+              "type": "-",
+              "size": 5503,
+              "lmtime": 1719504034101.3374,
+              "modified": false
+            },
+            "conversion.log": {
+              "type": "-",
+              "size": 109697,
+              "lmtime": 1719504034102.3367,
+              "modified": false
+            },
+            "css": {
+              "custom-styles.css": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1719504034103.3364,
+                "modified": false
+              }
+            },
+            "includes": {
+              "autoloader.php": {
+                "type": "-",
+                "size": 653,
+                "lmtime": 1719504034103.3364,
+                "modified": false
+              },
+              "classes": {
+                "Activator.php": {
+                  "type": "-",
+                  "size": 151,
+                  "lmtime": 1719504034104.3362,
+                  "modified": false
+                },
+                "Admin.php": {
+                  "type": "-",
+                  "size": 5408,
+                  "lmtime": 1719504034111.3354,
+                  "modified": false
+                },
+                "AvifImageConverter.php": {
+                  "type": "-",
+                  "size": 3781,
+                  "lmtime": 1719504034111.3354,
+                  "modified": false
+                },
+                "Deactivator.php": {
+                  "type": "-",
+                  "size": 157,
+                  "lmtime": 1719504034112.3354,
+                  "modified": false
+                },
+                "Image.php": {
+                  "type": "-",
+                  "size": 3462,
+                  "lmtime": 1719504034113.337,
+                  "modified": false
+                },
+                "ImageConverter.php": {
+                  "type": "-",
+                  "size": 2462,
+                  "lmtime": 1719504034114.3362,
+                  "modified": false
+                },
+                "ImageConverterInterface.php": {
+                  "type": "-",
+                  "size": 146,
+                  "lmtime": 1719504034114.3362,
+                  "modified": false
+                },
+                "ImageDeleter.php": {
+                  "type": "-",
+                  "size": 2832,
+                  "lmtime": 1719504034114.3362,
+                  "modified": false
+                },
+                "Logger.php": {
+                  "type": "-",
+                  "size": 458,
+                  "lmtime": 1719504034129.3357,
+                  "modified": false
+                },
+                "Plugin.php": {
+                  "type": "-",
+                  "size": 1524,
+                  "lmtime": 1719504034130.3354,
+                  "modified": false
+                },
+                "Utils.php": {
+                  "type": "-",
+                  "size": 1102,
+                  "lmtime": 1719504034131.3357,
+                  "modified": false
+                },
+                "WebpImageConverter.php": {
+                  "type": "-",
+                  "size": 1891,
+                  "lmtime": 1719504034131.3357,
+                  "modified": false
+                }
+              },
+              "index.php": {
+                "type": "-",
+                "size": 26,
+                "lmtime": 1719504034132.3347,
+                "modified": false
+              },
+              "interfaces": {
+                "ImageConverterInterface.php": {
+                  "type": "-",
+                  "size": 147,
+                  "lmtime": 1719504034133.3364,
+                  "modified": false
+                },
+                "ImageDeleterInterface.php": {
+                  "type": "-",
+                  "size": 129,
+                  "lmtime": 1719504034134.3367,
+                  "modified": false
+                }
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 26,
+              "lmtime": 1719504034134.3367,
+              "modified": false
+            },
+            "languages": {
+              "web-avif-converter.pot": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1719504034135.3367,
+                "modified": false
+              }
+            },
+            "public": {
+              "class-web-avif-converter-public.php": {
+                "type": "-",
+                "size": 2617,
+                "lmtime": 1719504034136.337,
+                "modified": false
+              },
+              "css": {
+                "web-avif-converter-public.css": {
+                  "type": "-",
+                  "size": 0,
+                  "lmtime": 1719504034137.3364,
+                  "modified": false
+                }
+              },
+              "index.php": {
+                "type": "-",
+                "size": 26,
+                "lmtime": 1719504034137.3364,
+                "modified": false
+              },
+              "js": {
+                "conversion-progress.js": {
+                  "type": "-",
+                  "size": 4446,
+                  "lmtime": 1719504034138.3362,
+                  "modified": false
+                },
+                "web-avif-converter-public.js": {
+                  "type": "-",
+                  "size": 870,
+                  "lmtime": 1719504034139.3347,
+                  "modified": false
+                }
+              },
+              "partials": {
+                "web-avif-converter-public-display.php": {
+                  "type": "-",
+                  "size": 385,
+                  "lmtime": 1719504034140.3374,
+                  "modified": false
+                }
+              },
+              "src": {
+                "admin.php": {
+                  "type": "-",
+                  "size": 0,
+                  "lmtime": 1719504034142.3362,
+                  "modified": false
+                },
+                "exceptions": {
+                  "exceptions.php": {
+                    "type": "-",
+                    "size": 572,
+                    "lmtime": 1719504034142.3362,
+                    "modified": false
+                  }
+                },
+                "hooks": {
+                  "activation_hooks.php": {
+                    "type": "-",
+                    "size": 314,
+                    "lmtime": 1719504034152.3362,
+                    "modified": false
+                  },
+                  "attachment_hooks.php": {
+                    "type": "-",
+                    "size": 6052,
+                    "lmtime": 1719504034153.3362,
+                    "modified": false
+                  }
+                },
+                "utils": {
+                  "conversion.log": {
+                    "type": "-",
+                    "size": 99995,
+                    "lmtime": 1719504034155.3396,
+                    "modified": false
+                  },
+                  "custom-fields.php": {
+                    "type": "-",
+                    "size": 47,
+                    "lmtime": 1719504034156.3386,
+                    "modified": false
+                  },
+                  "generator-utils.php": {
+                    "type": "-",
+                    "size": 9835,
+                    "lmtime": 1719504034157.337,
+                    "modified": false
+                  },
+                  "utils.php": {
+                    "type": "-",
+                    "size": 783,
+                    "lmtime": 1719504034157.337,
+                    "modified": false
+                  }
+                }
+              }
+            },
+            "uninstall.php": {
+              "type": "-",
+              "size": 1083,
+              "lmtime": 1719504034158.3367,
+              "modified": false
+            },
+            "web-avif-converter.php": {
+              "type": "-",
+              "size": 1357,
+              "lmtime": 1719504034159.337,
+              "modified": false
+            },
+            "webp_avif_converter.log": {
+              "type": "-",
+              "size": 138473,
+              "lmtime": 1719504034159.337,
+              "modified": false
+            }
           },
           "webp_avif_converter.log": {
             "type": "-",
-            "size": 744161,
-            "lmtime": 1719487891226.8647,
+            "size": 757791,
+            "lmtime": 1719504034164.3354,
             "modified": false
           }
         },

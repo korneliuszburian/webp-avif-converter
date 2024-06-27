@@ -4,21 +4,17 @@ namespace WebpAvifConverter;
 
 class Admin
 {
-    private $webpConverter;
-    private $avifConverter;
-    private $fileDeleter;
+    private $file_deleter;
     private $utils;
     private $logger;
 
     public function __construct(
-        ImageConverterInterface $webpConverter,
-        ImageConverterInterface $avifConverter,
-        ImageDeleterInterface $fileDeleter,
+        ImageConverterInterface $webp_converter,
+        ImageConverterInterface $avif_converter,
+        ImageDeleterInterface $file_deleter,
         Utils $utils
     ) {
-        $this->webpConverter = $webpConverter;
-        $this->avifConverter = $avifConverter;
-        $this->fileDeleter = $fileDeleter;
+        $this->file_deleter = $file_deleter;
         $this->utils = $utils;
         $this->logger = new Logger();
     }
@@ -31,50 +27,32 @@ class Admin
 
             if ($_POST['submit'] === 'Convert') {
                 $this->logger->log("User initiated Convert action with quality_webp: $quality_webp and quality_avif: $quality_avif");
-                $this->updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif);
-                echo '<p class="notification notification-good">All images have been converted to WebP and Avif formats.</p>';
+                $this->enqueue_conversion_script($quality_webp, $quality_avif);
             } else if ($_POST['submit'] === 'Delete') {
                 $this->logger->log("User initiated Delete action");
-                $this->deleteAllAttachmentsAvifAndWebp();
+                $this->delete_all_attachments_avif_and_webp();
             } else if ($_POST['submit'] === 'Print Uploads') {
                 $this->logger->log("User initiated Print Uploads action");
                 echo '<h2>Upload Folder Contents</h2>';
-                $this->utils->printUploadFolderContents();
+                $this->utils->print_upload_folder_contents();
             }
         }
 
-        $this->renderForm();
+        $this->render_form();
     }
 
-    private function updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif)
+    private function enqueue_conversion_script($quality_webp, $quality_avif)
     {
-        $attachments = get_posts([
-            'post_type' => 'attachment',
-            'numberposts' => -1,
-            'post_status' => null,
-            'post_parent' => null,
-            'exclude' => get_post_thumbnail_id()
+        wp_enqueue_script('ajax-conversion', plugin_dir_url(__FILE__) . '/../../../public/js/ajax-conversion.js', ['jquery'], null, true);
+        wp_localize_script('ajax-conversion', 'ajax_object', [
+            'ajax_url' => admin_url('admin-ajax.php'),
+            'nonce' => wp_create_nonce('convert_batch_nonce'),
+            'quality_webp' => $quality_webp,
+            'quality_avif' => $quality_avif,
         ]);
-
-        foreach ($attachments as $attachment) {
-            $this->logger->log("Converting attachment ID: {$attachment->ID}");
-            $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
-            $converter->convertImagesOnGenerateAttachmentMetadata(wp_get_attachment_metadata($attachment->ID), $attachment->ID, $quality_webp, $quality_avif);
-        }
     }
 
-    private function deleteAllAttachmentsAvifAndWebp()
-    {
-        $deleted = $this->fileDeleter->deleteAllAvifAndWebpFiles();
-
-        if ($deleted) {
-            echo '<p class="notification notification-bad">All WebP and Avif images have been deleted.</p>';
-        } else {
-            echo '<p class="notification notification-info">There were no images to delete.</p>';
-        }
-    }
-
-    private function renderForm()
+    private function render_form()
     {
         ?>
         <form method="post">
@@ -85,7 +63,7 @@ class Admin
                     <b>Convert function</b> - converts all images in the uploads/media library directory to WebP and Avif formats. <br>
                     <b>Print function</b> - prints the contents of the uploads/media library directory. <br>
                     <b>Note: </b> This tool will not convert images that are not in the uploads/media library directory.<br>
-                    <?php echo $this->getPhpVersionInfo(); ?>
+                    <?php echo $this->get_php_version_info(); ?>
                 </p>
                 <div class="conversion-options">
                     <label class="option-label">Quality of WEBP: (0 - 100%)</label>
@@ -101,11 +79,25 @@ class Admin
                 </div>
             </fieldset>
         </form>
+        <div id="progress-container" style="display: none;">
+            <div id="progress-bar" style="width: 0%; height: 20px; background-color: green;"></div>
         </div>
+        <div id="progress-text" style="margin-top: 10px;"></div>
         <?php
     }
 
-    private function getPhpVersionInfo()
+    private function delete_all_attachments_avif_and_webp()
+    {
+        $deleted = $this->file_deleter->deleteAllAvifAndWebpFiles();
+
+        if ($deleted) {
+            echo '<p class="notification notification-bad">All WebP and Avif images have been deleted.</p>';
+        } else {
+            echo '<p class="notification notification-info">There were no images to delete.</p>';
+        }
+    }
+
+    private function get_php_version_info()
     {
         if (version_compare(phpversion(), PHP_REQUIRED_VERSION, '>=')) {
             return '<span class="php-version-good">PHP Version is: ' . phpversion() . ' <b>version >= ' . PHP_REQUIRED_VERSION . '</b> is required.</span>';
