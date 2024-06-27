@@ -4,8 +4,6 @@ namespace WebpAvifConverter;
 
 class Admin
 {
-    private $webpConverter;
-    private $avifConverter;
     private $fileDeleter;
     private $utils;
     private $logger;
@@ -90,24 +88,6 @@ class Admin
         </div>
         <div id="progress-text" style="margin-top: 10px;"></div>
         <?php
-    }
-
-    private function updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif, $offset = 0, $batch_size = 10)
-    {
-        $attachments = get_posts([
-            'post_type' => 'attachment',
-            'numberposts' => $batch_size,
-            'offset' => $offset,
-            'post_status' => null,
-            'post_parent' => null,
-            'exclude' => get_post_thumbnail_id()
-        ]);
-
-        foreach ($attachments as $attachment) {
-            $this->logger->log("Converting attachment ID: {$attachment->ID}");
-            $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
-            $converter->convertImagesOnGenerateAttachmentMetadata(wp_get_attachment_metadata($attachment->ID), $attachment->ID, $quality_webp, $quality_avif);
-        }
     }
 
     private function deleteAllAttachmentsAvifAndWebp()
