@@ -4,10 +4,11 @@ namespace WebpAvifConverter;
 
 class Admin
 {
+    private $webpConverter;
+    private $avifConverter;
     private $fileDeleter;
     private $utils;
     private $logger;
-    private $batch_size = 10; // Number of attachments to process per batch
 
     public function __construct(
         ImageConverterInterface $webpConverter,
@@ -30,7 +31,8 @@ class Admin
 
             if ($_POST['submit'] === 'Convert') {
                 $this->logger->log("User initiated Convert action with quality_webp: $quality_webp and quality_avif: $quality_avif");
-                $this->enqueueConversionScript($quality_webp, $quality_avif);
+                $this->updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif);
+                echo '<p class="notification notification-good">All images have been converted to WebP and Avif formats.</p>';
             } else if ($_POST['submit'] === 'Delete') {
                 $this->logger->log("User initiated Delete action");
                 $this->deleteAllAttachmentsAvifAndWebp();
@@ -44,16 +46,32 @@ class Admin
         $this->renderForm();
     }
 
-    private function enqueueConversionScript($quality_webp, $quality_avif)
+    private function updateAllAttachmentsWebpAvifQuality($quality_webp, $quality_avif)
     {
-        wp_enqueue_script('ajax-conversion', plugin_dir_url(__FILE__) . '/../../../public/js/ajax-conversion.js', ['jquery'], null, true);
-        wp_localize_script('ajax-conversion', 'ajax_object', [
-            'ajax_url' => admin_url('admin-ajax.php'),
-            'nonce' => wp_create_nonce('convert_batch_nonce'),
-            'quality_webp' => $quality_webp,
-            'quality_avif' => $quality_avif,
-            'batch_size' => $this->batch_size
+        $attachments = get_posts([
+            'post_type' => 'attachment',
+            'numberposts' => -1,
+            'post_status' => null,
+            'post_parent' => null,
+            'exclude' => get_post_thumbnail_id()
         ]);
+
+        foreach ($attachments as $attachment) {
+            $this->logger->log("Converting attachment ID: {$attachment->ID}");
+            $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
+            $converter->convertImagesOnGenerateAttachmentMetadata(wp_get_attachment_metadata($attachment->ID), $attachment->ID, $quality_webp, $quality_avif);
+        }
+    }
+
+    private function deleteAllAttachmentsAvifAndWebp()
+    {
+        $deleted = $this->fileDeleter->deleteAllAvifAndWebpFiles();
+
+        if ($deleted) {
+            echo '<p class="notification notification-bad">All WebP and Avif images have been deleted.</p>';
+        } else {
+            echo '<p class="notification notification-info">There were no images to delete.</p>';
+        }
     }
 
     private function renderForm()
@@ -83,22 +101,8 @@ class Admin
                 </div>
             </fieldset>
         </form>
-        <div id="progress-container" style="display: none;">
-            <div id="progress-bar" style="width: 0%; height: 20px; background-color: green;"></div>
         </div>
-        <div id="progress-text" style="margin-top: 10px;"></div>
         <?php
-    }
-
-    private function deleteAllAttachmentsAvifAndWebp()
-    {
-        $deleted = $this->fileDeleter->deleteAllAvifAndWebpFiles();
-
-        if ($deleted) {
-            echo '<p class="notification notification-bad">All WebP and Avif images have been deleted.</p>';
-        } else {
-            echo '<p class="notification notification-info">There were no images to delete.</p>';
-        }
     }
 
     private function getPhpVersionInfo()
