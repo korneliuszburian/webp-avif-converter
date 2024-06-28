@@ -24,7 +24,6 @@ if (!defined('WPINC')) {
     die;
 }
 
-
 define('PHP_REQUIRED_VERSION', '8.1.0');
 define('PHP_VERSION_OK', version_compare(phpversion(), PHP_REQUIRED_VERSION, '>='));
 
