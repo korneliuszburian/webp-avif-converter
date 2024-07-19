@@ -87,44 +87,50 @@
         },
         "regenerate-thumbnails": {},
         "webp-avif-converter-1.0.5": {
+          ".DS_Store": {
+            "type": "-",
+            "size": 6148,
+            "lmtime": 1719813366898.2654,
+            "modified": false
+          },
           "LICENSE.txt": {
             "type": "-",
             "size": 18429,
-            "lmtime": 1719504034034.337,
+            "lmtime": 1719813366898.2654,
             "modified": false
           },
           "README.md": {
             "type": "-",
             "size": 1684,
-            "lmtime": 1719503798859.3208,
+            "lmtime": 1719813366898.2654,
             "modified": false
           },
           "admin": {
             "class-web-avif-converter-admin.php": {
               "type": "-",
               "size": 2713,
-              "lmtime": 1719504034036.337,
+              "lmtime": 1719813366899.2651,
               "modified": false
             },
             "css": {
               "web-avif-converter-admin.css": {
                 "type": "-",
-                "size": 3816,
-                "lmtime": 1719504034038.337,
+                "size": 4195,
+                "lmtime": 1719815511351.396,
                 "modified": false
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719503799726.4111,
+              "lmtime": 1719813366900.2654,
               "modified": false
             },
             "js": {
               "web-avif-converter-admin.js": {
                 "type": "-",
                 "size": 670,
-                "lmtime": 1719504034040.3352,
+                "lmtime": 1719815989231.856,
                 "modified": false
               }
             },
@@ -132,7 +138,7 @@
               "web-avif-converter-admin-display.php": {
                 "type": "-",
                 "size": 380,
-                "lmtime": 1719504034047.3354,
+                "lmtime": 1719813366900.2654,
                 "modified": false
               }
             }
@@ -140,20 +146,26 @@
           "composer.json": {
             "type": "-",
             "size": 0,
-            "lmtime": 1719503798967.6907,
+            "lmtime": 1719813366900.2654,
             "modified": false
           },
           "composer.lock": {
             "type": "-",
             "size": 5503,
-            "lmtime": 1719504034051.3406,
+            "lmtime": 1719813366901.2642,
+            "modified": false
+          },
+          "conversion.log": {
+            "type": "-",
+            "size": 109695,
+            "lmtime": 1719815645223.3855,
             "modified": false
           },
           "css": {
             "custom-styles.css": {
               "type": "-",
               "size": 0,
-              "lmtime": 1719503800016.4097,
+              "lmtime": 1719813366903.264,
               "modified": false
             }
           },
@@ -161,94 +173,110 @@
             "autoloader.php": {
               "type": "-",
               "size": 653,
-              "lmtime": 1719504034054.3357,
+              "lmtime": 1719813366903.264,
               "modified": false
             },
             "classes": {
               "Activator.php": {
                 "type": "-",
                 "size": 151,
-                "lmtime": 1719504034055.3352,
+                "lmtime": 1719813366903.264,
                 "modified": false
               },
               "Admin.php": {
                 "type": "-",
-                "size": 5187,
-                "lmtime": 1719554679783.949,
+                "size": 7929,
+                "lmtime": 1721381889684.2793,
+                "modified": false
+              },
+              "AjaxHandler.php": {
+                "type": "-",
+                "size": 765,
+                "lmtime": 1719815426536.3987,
                 "modified": false
               },
               "AvifImageConverter.php": {
                 "type": "-",
                 "size": 3781,
-                "lmtime": 1719554681734.5168,
+                "lmtime": 1719813366904.2644,
                 "modified": false
               },
               "Deactivator.php": {
                 "type": "-",
                 "size": 157,
-                "lmtime": 1719504034062.3352,
-                "modified": false
-              },
-              "Image.php": {
-                "type": "-",
-                "size": 3462,
-                "lmtime": 1719554683654.4834,
+                "lmtime": 1719813366904.2644,
                 "modified": false
               },
               "ImageConverter.php": {
                 "type": "-",
-                "size": 2401,
-                "lmtime": 1719554489877.0928,
+                "size": 2462,
+                "lmtime": 1719815287947.0696,
                 "modified": false
               },
               "ImageDeleter.php": {
                 "type": "-",
-                "size": 2832,
-                "lmtime": 1719554700638.6226,
+                "size": 2830,
+                "lmtime": 1719813366905.2644,
                 "modified": false
               },
               "Logger.php": {
                 "type": "-",
                 "size": 458,
-                "lmtime": 1719554704689.5461,
+                "lmtime": 1719813366905.2644,
                 "modified": false
               },
               "Plugin.php": {
                 "type": "-",
-                "size": 3742,
-                "lmtime": 1719554489877.425,
+                "size": 1987,
+                "lmtime": 1719815865804.724,
                 "modified": false
               },
               "Utils.php": {
                 "type": "-",
                 "size": 1102,
-                "lmtime": 1719504034073.338,
+                "lmtime": 1719813366905.2644,
                 "modified": false
               },
               "WebpImageConverter.php": {
                 "type": "-",
-                "size": 1891,
-                "lmtime": 1719504034074.337,
+                "size": 1889,
+                "lmtime": 1719813366905.2644,
                 "modified": false
+              },
+              "css": {
+                "admin.css": {
+                  "type": "-",
+                  "size": 360,
+                  "lmtime": 1721382082394.8137,
+                  "modified": false
+                }
+              },
+              "js": {
+                "admin.js": {
+                  "type": "-",
+                  "size": 2747,
+                  "lmtime": 1721381284902.7805,
+                  "modified": false
+                }
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719503800154.4233,
+              "lmtime": 1719813366906.2637,
               "modified": false
             },
             "interfaces": {
               "ImageConverterInterface.php": {
                 "type": "-",
                 "size": 147,
-                "lmtime": 1719504034075.3362,
+                "lmtime": 1719813366906.2637,
                 "modified": false
               },
               "ImageDeleterInterface.php": {
                 "type": "-",
-                "size": 129,
-                "lmtime": 1719504034076.3354,
+                "size": 127,
+                "lmtime": 1719813366906.2637,
                 "modified": false
               }
             }
@@ -256,14 +284,14 @@
           "index.php": {
             "type": "-",
             "size": 26,
-            "lmtime": 1719503799121.9143,
+            "lmtime": 1719813366907.2676,
             "modified": false
           },
           "languages": {
             "web-avif-converter.pot": {
               "type": "-",
               "size": 0,
-              "lmtime": 1719503801072.272,
+              "lmtime": 1719813366907.2676,
               "modified": false
             }
           },
@@ -271,40 +299,28 @@
             "class-web-avif-converter-public.php": {
               "type": "-",
               "size": 2617,
-              "lmtime": 1719503801145.2725,
+              "lmtime": 1719813366908.2656,
               "modified": false
             },
             "css": {
               "web-avif-converter-public.css": {
                 "type": "-",
                 "size": 0,
-                "lmtime": 1719503801287.1016,
+                "lmtime": 1719813366908.2656,
                 "modified": false
               }
             },
             "index.php": {
               "type": "-",
               "size": 26,
-              "lmtime": 1719503801217.2698,
+              "lmtime": 1719813366908.2656,
               "modified": false
             },
             "js": {
-              "ajax-conversion.js": {
-                "type": "-",
-                "size": 1578,
-                "lmtime": 1719554579649.0093,
-                "modified": false
-              },
-              "conversion-progress.js": {
-                "type": "-",
-                "size": 4317,
-                "lmtime": 1719554495122.7668,
-                "modified": false
-              },
               "web-avif-converter-public.js": {
                 "type": "-",
                 "size": 870,
-                "lmtime": 1719504034078.3362,
+                "lmtime": 1719813366909.2644,
                 "modified": false
               },
               "webp-avif-converter.js": {
@@ -318,82 +334,26 @@
               "web-avif-converter-public-display.php": {
                 "type": "-",
                 "size": 385,
-                "lmtime": 1719504034079.3362,
+                "lmtime": 1719813366909.2644,
                 "modified": false
-              }
-            },
-            "src": {
-              "admin.php": {
-                "type": "-",
-                "size": 0,
-                "lmtime": 1719503801567.2573,
-                "modified": false
-              },
-              "exceptions": {
-                "exceptions.php": {
-                  "type": "-",
-                  "size": 572,
-                  "lmtime": 1719504034081.3362,
-                  "modified": false
-                }
-              },
-              "hooks": {
-                "activation_hooks.php": {
-                  "type": "-",
-                  "size": 314,
-                  "lmtime": 1719504034082.3357,
-                  "modified": false
-                },
-                "attachment_hooks.php": {
-                  "type": "-",
-                  "size": 6052,
-                  "lmtime": 1719504034083.3354,
-                  "modified": false
-                }
-              },
-              "utils": {
-                "conversion.log": {
-                  "type": "-",
-                  "size": 99995,
-                  "lmtime": 1719504034088.3352,
-                  "modified": false
-                },
-                "custom-fields.php": {
-                  "type": "-",
-                  "size": 47,
-                  "lmtime": 1719504034090.3354,
-                  "modified": false
-                },
-                "generator-utils.php": {
-                  "type": "-",
-                  "size": 9835,
-                  "lmtime": 1719504034090.3354,
-                  "modified": false
-                },
-                "utils.php": {
-                  "type": "-",
-                  "size": 783,
-                  "lmtime": 1719504034091.335,
-                  "modified": false
-                }
               }
             }
           },
           "uninstall.php": {
             "type": "-",
             "size": 1083,
-            "lmtime": 1719504034092.3364,
+            "lmtime": 1719813366909.2644,
             "modified": false
           },
           "web-avif-converter.php": {
             "type": "-",
-            "size": 1357,
-            "lmtime": 1719504034094.337,
+            "size": 1549,
+            "lmtime": 1719815723453.051,
             "modified": false
           },
           "webp_avif_converter.log": {
             "type": "-",
-            "size": 5329348,
+            "size": 1258587,
             "lmtime": 1719554728873.9895,
             "modified": true
           }

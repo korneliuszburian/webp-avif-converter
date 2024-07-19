@@ -11,7 +11,7 @@
  * Plugin Name:       WebP & Avif Converter
  * Plugin URI:        https://images.rekurencja.com
  * Description:       Fast and simple plugin to automatically convert and serve WebP & AVIF images.
- * Version:           1.0.0
+ * Version:           1.0.7
  * Author:            Rekurencja
  * Author URI:        https://rekurencja.com/
  * License:           GPL-2.0+

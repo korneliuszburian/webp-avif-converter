@@ -25,18 +25,45 @@ class Admin
 
     public function render()
     {
+        echo '<div class="wrap">';
+
+        $this->renderForm();
+
         if (isset($_POST['submit'])) {
             if ($_POST['submit'] === 'Delete') {
                 $this->logger->log("User initiated Delete action");
                 $this->deleteAllAttachmentsAvifAndWebp();
-            } else if ($_POST['submit'] === 'Print Uploads') {
+            } elseif ($_POST['submit'] === 'Print Uploads') {
                 $this->logger->log("User initiated Print Uploads action");
-                echo '<h2>Upload Folder Contents</h2>';
+                echo '<div class="item"><h2>Upload Folder Contents</h2>';
                 $this->utils->printUploadFolderContents();
+                echo '</div>';
             }
         }
 
-        $this->renderForm();
+        echo '</div>';
+    }
+
+    public function imageSupportInfo()
+    {
+        $info = '';
+        $hasImagick = extension_loaded('imagick');
+        $supportsWebP = function_exists('imagewebp');
+        $supportsAvif = function_exists('imageavif');
+
+        if ($supportsWebP && $supportsAvif) {
+            $info .= '<p>Native PHP support for both WebP and AVIF is available.</p>';
+        } else {
+            if ($hasImagick) {
+                $info .= '<p>Imagick extension is available for converting images.</p>';
+                if (!$supportsWebP) $info .= '<p>Using Imagick for WebP conversion.</p>';
+                if (!$supportsAvif) $info .= '<p>Using Imagick for AVIF conversion.</p>';
+            } else {
+                $info .= '<p><strong>Warning:</strong> Neither native PHP functions (imageavif, imagewebp) nor Imagick are available. Image conversion cannot be performed.</p>';
+            }
+        }
+
+        return $info;
     }
 
     public function handleAjaxConversion()
@@ -79,12 +106,12 @@ class Admin
         try {
             $converter = new ImageConverter($this->webpConverter, $this->avifConverter);
             $result = $converter->convertImagesOnGenerateAttachmentMetadata(wp_get_attachment_metadata($attachment->ID), $attachment->ID, $quality_webp, $quality_avif);
-            
+
             $this->logger->log("Conversion result: " . print_r($result, true));
 
             $current++;
             $progress = ($current / $total) * 100;
-            
+
             $this->logger->log("Progress: $progress%");
 
             wp_send_json_success([
@@ -116,40 +143,87 @@ class Admin
             'ajax_url' => admin_url('admin-ajax.php'),
             'nonce' => wp_create_nonce('convert_images_nonce')
         ]);
-        
-        ?>
+
+?>
         <div class="wrap">
-            <h1>WebP & Avif Converter</h1>
-            <form id="convert-form" method="post">
+            <div class="item">
+                <h1 class="text-1">WebP & Avif Converter</h1>
                 <fieldset <?php echo PHP_VERSION_OK ? '' : 'disabled' ?>>
-                    <p class="conversion-description">Tool for WebP and Avif format conversion of all images in the uploads/media library directory. <br>
+                    <p class="conversion-description text-1">Tool for WebP and Avif format conversion of all images in the uploads/media library directory. <br>
                         <b>Choose quality</b> - choose the quality of the converted images (the lower the quality, the smaller the size) <br>
                         <b>Delete function</b> - deletes all WebP and Avif images from the uploads/media library directory.
                         <b>Convert function</b> - converts all images in the uploads/media library directory to WebP and Avif formats. <br>
                         <b>Print function</b> - prints the contents of the uploads/media library directory. <br>
                         <b>Note: </b> This tool will not convert images that are not in the uploads/media library directory.<br>
                         <?php echo $this->getPhpVersionInfo(); ?>
+                        <?php echo $this->imageSupportInfo(); ?>
                     </p>
+                </fieldset>
+            </div>
+            <div class="item">
+                <form id="convert-form" method="post">
                     <div class="conversion-options">
-                        <label class="option-label">Quality of WEBP: (0 - 100%)</label>
-                        <input class="quality-input" type="number" name="quality_webp" value="80" min="0" max="100">
-                        <label class="option-label">Quality of AVIF: (0 - 100%)</label>
-                        <input type="number" name="quality_avif" value="80" min="0" max="100">
-                        <br><br>
+                        <div>
+                            <label class="option-label text-1">Quality of WEBP: (0 - 100%)</label>
+                            <input class="quality-input" type="number" name="quality_webp" value="80" min="0" max="100">
+                        </div>
+                        <div>
+                            <label class="option-label text-1">Quality of AVIF: (0 - 100%)</label>
+                            <input type="number" name="quality_avif" value="80" min="0" max="100">
+                        </div>
                         <div class="conversion-buttons">
-                            <input type="submit" name="submit" value="Convert" class="convert-button">
-                            <input type="submit" name="submit" value="Delete" class="delete-button">
-                            <input type="submit" name="submit" value="Print Uploads" class="print-button">
+                            <input type="submit" name="submit" value="Convert" class="custom-button convert-button text-2">
+                            <input type="submit" name="submit" value="Delete" class="custom-button delete-button text-2">
+                            <input type="submit" name="submit" value="Print Uploads" class="custom-button print-button text-2">
                         </div>
                     </div>
-                </fieldset>
-            </form>
-            <div id="progress-bar-container" style="display: none;">
-                <div id="progress-bar"></div>
+                </form>
             </div>
-            <div id="conversion-status"></div>
+            <div class="item">
+                <h2 class="text-1">Choose your theme</h2>
+                <form id="theme-switcher">
+                    <div>
+                        <input checked type="radio" id="auto" name="theme" value="auto">
+                        <label class="text-1" for="auto">Auto</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="light" name="theme" value="light">
+                        <label class="text-1" for="light">Light</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="dark" name="theme" value="dark">
+                        <label class="text-1" for="dark">Dark</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="dim" name="theme" value="dim">
+                        <label class="text-1" for="dim">Dim</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="grape" name="theme" value="grape">
+                        <label class="text-1" for="grape">Grape</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="choco" name="theme" value="choco">
+                        <label class="text-1" for="choco">Choco</label>
+                    </div>
+                </form>
+            </div>
+            <div class="item progress-bar-item">
+                <div id="progress-bar-container" class="circular-progress-bar">
+                    <svg viewBox="0 0 36 36" class="circular-chart">
+                        <path class="circle-bg" d="M18 2.0845
+                    a 15.9155 15.9155 0 0 1 0 31.831
+                    a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="var(--surface-4)" stroke-width="4" />
+                        <path class="circle" stroke-linecap="round" d="M18 2.0845
+                    a 15.9155 15.9155 0 0 1 0 31.831
+                    a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="var(--surface-3)" stroke-width="4" stroke-dasharray="0, 100" />
+                        <text x="18" y="20.35" class="percentage" fill="var(--text-1)" font-size="4" text-anchor="middle"></text>
+                    </svg>
+                </div>
+            </div>
+            <!-- <div id="conversion-status"></div> -->
         </div>
-        <?php
+<?php
     }
 
     private function getPhpVersionInfo()
