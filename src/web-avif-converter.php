@@ -36,6 +36,14 @@ use WebpAvifConverter\Plugin;
 use WebpAvifConverter\WebpImageConverter;
 use WebpAvifConverter\AvifImageConverter;
 use WebpAvifConverter\ImageDeleter;
+use WebpAvifConverter\AjaxHandler;
 
-$plugin = new Plugin(new WebpImageConverter(), new AvifImageConverter(), new ImageDeleter());
+$webpConverter = new WebpImageConverter();
+$avifConverter = new AvifImageConverter();
+$fileDeleter = new ImageDeleter();
+$ajaxHandler = new AjaxHandler();
+
+$plugin = new Plugin($webpConverter, $avifConverter, $fileDeleter);
 $plugin->run();
+
+$ajaxHandler->init();
