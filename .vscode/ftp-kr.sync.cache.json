@@ -161,14 +161,6 @@
             "lmtime": 1719815645223.3855,
             "modified": false
           },
-          "css": {
-            "custom-styles.css": {
-              "type": "-",
-              "size": 0,
-              "lmtime": 1719813366903.264,
-              "modified": false
-            }
-          },
           "includes": {
             "autoloader.php": {
               "type": "-",
@@ -185,8 +177,8 @@
               },
               "Admin.php": {
                 "type": "-",
-                "size": 7929,
-                "lmtime": 1721381889684.2793,
+                "size": 13747,
+                "lmtime": 1721395321338.5461,
                 "modified": false
               },
               "AjaxHandler.php": {
@@ -246,16 +238,16 @@
               "css": {
                 "admin.css": {
                   "type": "-",
-                  "size": 360,
-                  "lmtime": 1721382082394.8137,
+                  "size": 7276,
+                  "lmtime": 1721394887168.8857,
                   "modified": false
                 }
               },
               "js": {
                 "admin.js": {
                   "type": "-",
-                  "size": 2747,
-                  "lmtime": 1721381284902.7805,
+                  "size": 3179,
+                  "lmtime": 1721391976020.5066,
                   "modified": false
                 }
               }
@@ -348,15 +340,16 @@
           "web-avif-converter.php": {
             "type": "-",
             "size": 1549,
-            "lmtime": 1719815723453.051,
+            "lmtime": 1721393130499.6292,
             "modified": false
           },
           "webp_avif_converter.log": {
             "type": "-",
-            "size": 1258587,
+            "size": 2611966,
             "lmtime": 1719554728873.9895,
             "modified": true
-          }
+          },
+          "css": {}
         },
         "wordpress-seo": {}
       },

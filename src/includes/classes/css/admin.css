@@ -256,6 +256,36 @@ html {
 	stroke-width: 3.8;
 }
 
+.summary-wrapper{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12ch, 1fr));
+  column-gap: 12px;
+  row-gap: 12px;
+
+  & .summary-total {
+    grid-column: -1 / 1;
+  }
+}
+
+.php-version-good{
+  color: var(--green-6);
+}
+
+.php-version-bad{
+  color: var(--red-6);
+}
+
+.summary-item{
+  display: grid;
+  place-items: center;
+  gap: 4px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
 .circle {
 	fill: none;
 	stroke-width: 3.8;
@@ -267,4 +297,9 @@ html {
 	font-weight: bold;
 	alignment-baseline: middle;
 	text-anchor: middle;
+}
+
+.conversion-summary-toggle{
+  max-height: 400px;
+  overflow-y: scroll;
 }
