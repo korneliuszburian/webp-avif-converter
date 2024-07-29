@@ -24,6 +24,16 @@ if (!defined('WPINC')) {
     die;
 }
 
+add_action('wp_head', function() {
+    $savedTheme = isset($_COOKIE['webp_avif_color_scheme']) ? $_COOKIE['webp_avif_color_scheme'] : 'auto';
+    ?>
+    <script>
+        document.documentElement.classList.add('<?php echo esc_js($savedTheme); ?>');
+        document.documentElement.setAttribute('color-scheme', '<?php echo esc_js($savedTheme); ?>');
+    </script>
+    <?php
+}, 0);
+
 define('PHP_REQUIRED_VERSION', '8.1.0');
 define('PHP_VERSION_OK', version_compare(phpversion(), PHP_REQUIRED_VERSION, '>='));
 

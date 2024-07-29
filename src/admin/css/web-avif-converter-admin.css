@@ -178,27 +178,7 @@
 		color 0.2s ease-in-out;
 }
 
-#toggle-summary:hover {
-	background-color: white;
-	color: var(--color-primary-dark);
-}
-
-.php-version-good {
-	color: #5cb85c;
-}
-
-.toggle-summary_w {
-	display: flex;
-	justify-content: center;
-}
-
-#progress-bar-container {
-	width: 100%;
-	background-color: #f3f3f3;
-	padding: 3px;
-	border-radius: 3px;
-	box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
-	margin-top: 20px;
+#toggle-summ-top: 20px;
 }
 
 #progress-bar {
@@ -208,6 +188,7 @@
 	border-radius: 3px;
 	transition: width 0.5s ease-in-out;
 	text-align: center;
-	line-height: 30px;
+	line-height: 30
+#
 	color: white;
 }

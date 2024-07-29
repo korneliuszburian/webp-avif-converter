@@ -33,12 +33,12 @@ class Admin
             if ($_POST['submit'] === 'Delete') {
                 $this->logger->log("User initiated Delete action");
                 $this->deleteAllAttachmentsAvifAndWebp();
-            } elseif ($_POST['submit'] === 'Print Uploads') {
+            } /* elseif ($_POST['submit'] === 'Print Uploads') {
                 $this->logger->log("User initiated Print Uploads action");
                 echo '<div class="item"><h2>Upload Folder Contents</h2>';
                 $this->utils->printUploadFolderContents();
                 echo '</div>';
-            }
+            } */
         }
 
         echo '</div>';
@@ -194,6 +194,9 @@ class Admin
         ]);
 
 ?>
+<?php
+        $savedTheme = isset($_COOKIE['webp_avif_theme']) ? $_COOKIE['webp_avif_theme'] : 'auto';
+?>
         <script src="https://unpkg.com/swapy/dist/swapy.min.js"></script>
         <div class="wrap container">
             <div class="item" data-swapy-slot="test">
@@ -227,7 +230,6 @@ class Admin
                             <div class="conversion-buttons">
                                 <input type="submit" name="submit" value="Convert" class="custom-button convert-button text-2">
                                 <input type="submit" name="submit" value="Delete" class="custom-button delete-button text-2">
-                                <input type="submit" name="submit" value="Print Uploads" class="custom-button print-button text-2">
                             </div>
                         </div>
                     </form>
@@ -237,30 +239,18 @@ class Admin
                 <div data-swapy-item="c">
                     <h2 class="text-1">Choose your theme</h2>
                     <form id="theme-switcher">
-                        <div>
-                            <input checked type="radio" id="auto" name="theme" value="auto">
-                            <label class="text-1" for="auto">Auto</label>
-                        </div>
-                        <div>
-                            <input type="radio" id="light" name="theme" value="light">
-                            <label class="text-1" for="light">Light</label>
-                        </div>
-                        <div>
-                            <input type="radio" id="dark" name="theme" value="dark">
-                            <label class="text-1" for="dark">Dark</label>
-                        </div>
-                        <div>
-                            <input type="radio" id="dim" name="theme" value="dim">
-                            <label class="text-1" for="dim">Dim</label>
-                        </div>
-                        <div>
-                            <input type="radio" id="grape" name="theme" value="grape">
-                            <label class="text-1" for="grape">Grape</label>
-                        </div>
-                        <div>
-                            <input type="radio" id="choco" name="theme" value="choco">
-                            <label class="text-1" for="choco">Choco</label>
-                        </div>
+                        <?php
+                        $themes = ['auto', 'light', 'dark', 'dim', 'grape', 'choco'];
+                        foreach ($themes as $theme) {
+                            ?>
+                            <div>
+                                <input type="radio" id="<?php echo esc_attr($theme); ?>" name="color-scheme" value="<?php echo esc_attr($theme); ?>" <?php checked($savedTheme, $theme); ?>>
+                                <label class="text-1" for="<?php echo esc_attr($theme); ?>"><?php echo ucfirst($theme); ?></label>
+                            </div>
+                            <?php
+                        }
+                        ?>
+                        <button type="button" id="set-theme-button" class="custom-button text-2">Ustaw motyw</button>
                     </form>
                 </div>
             </div>
@@ -282,19 +272,15 @@ class Admin
             </div>
             <div class="item conversion-summary-toggle" data-swapy-slot="test5">
                 <div data-swapy-item="e">
-
                     <h2 class="text-1"> Rozmiary obrazów </h2>
                     <?php
                     $this->get_images_size_info();
                     ?>
                 </div>
             </div>
-            <!-- <div id="conversion-status"></div> -->
         </div>
         <script>
             const container = document.querySelector('.container')
-
-            // You can then use it like this
             const swapy = Swapy.createSwapy(container)
         </script>
 <?php

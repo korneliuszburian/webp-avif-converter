@@ -74,3 +74,63 @@ switcher.addEventListener('input', e =>
 
 const setTheme = theme =>
     doc.setAttribute('color-scheme', theme)
+
+document.addEventListener('DOMContentLoaded', function() {
+    const themeSwitcher = document.getElementById('theme-switcher');
+    const setThemeButton = document.getElementById('set-theme-button');
+    
+    // Function to set a cookie
+    function setCookie(name, value, days) {
+        let expires = "";
+        if (days) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    }
+
+    // Function to get a cookie
+    function getCookie(name) {
+        const nameEQ = name + "=";
+        const ca = document.cookie.split(';');
+        for(let i=0; i < ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    // Set the initial theme based on the cookie
+    const savedTheme = getCookie('webp_avif_color_scheme');
+    if (savedTheme) {
+        document.querySelector(`input[name="color-scheme"][value="${savedTheme}"]`).checked = true;
+        document.documentElement.classList.add(savedTheme);
+        document.documentElement.setAttribute('color-scheme', savedTheme);
+    }
+
+    // Function to apply the selected theme
+    function applyTheme() {
+        const selectedTheme = document.querySelector('input[name="color-scheme"]:checked').value;
+        document.documentElement.className = '';  // Remove all classes
+        document.documentElement.classList.add(selectedTheme);
+        document.documentElement.setAttribute('color-scheme', selectedTheme);
+        setCookie('webp_avif_color_scheme', selectedTheme, 365); // Save for 1 year
+        alert('Motyw został ustawiony: ' + selectedTheme);
+    }
+
+    // Listen for clicks on the set theme button
+    setThemeButton.addEventListener('click', applyTheme);
+
+    // Optional: Apply theme immediately when radio button is changed
+    themeSwitcher.addEventListener('change', function(e) {
+        if (e.target && e.target.name === 'color-scheme') {
+            const selectedTheme = e.target.value;
+            document.documentElement.className = '';  // Remove all classes
+            document.documentElement.classList.add(selectedTheme);
+            document.documentElement.setAttribute('color-scheme', selectedTheme);
+            // Note: We don't set the cookie here, only when the button is clicked
+        }
+    });
+});
